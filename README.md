@@ -6,4 +6,5 @@
 * DOMN is a 4 letter code stating which server group the channel is coming from (eg: PLTO)
 * ZYZX is used as a 4 letter code for small "random" servers
 * CC is the 2 letter country code, or "TV" if country code isn't in the M3U file
-[https://cdgamlin.github.io/IPTV.m3u](https://cdgamlin.github.io/IPTV.m3u)
+* List found at: [https://cdgamlin.github.io/IPTV.m3u](https://cdgamlin.github.io/IPTV.m3u)
+* Code use to generate list to be released on GitHub (when I get around to it)
