@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-chno="1" group-title="Italy" tvg-logo="https://i.imgur.com/zhzgTlb.png",#1 – Pluto TV [PLTO:TV]
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="VOD Italy" tvg-logo="https://i.imgur.com/zhzgTlb.png",#1 – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ec83440dc90007f514c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2" group-title="Entertainment" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black Russia (480p) [Geo-blocked] [CDVD:RU]
@@ -88,7 +89,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Entertainment" tvg-logo="https://i.imgur.com/Y2pEs8H.png",16 Anni e Incinta Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="31" group-title="Italy" tvg-logo="https://i.imgur.com/4BHrbP7.png",16 anni e incinta – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="31" group-title="VOD Italy" tvg-logo="https://i.imgur.com/4BHrbP7.png",16 anni e incinta – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="32" group-title="XYZ" tvg-logo="https://i.imgur.com/04fCzHl.png",16tv Budapest (360p) [LXNT:TV]
@@ -298,7 +299,7 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-chno="100" group-title="Movies" tvg-logo="https://i.imgur.com/mgXeEE4.png",70s Cinema (684p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="101" group-title="Movies" tvg-logo="https://i.imgur.com/wk9Baz9.png",70s Cinema [PLTO:TV]
+#EXTINF:-1 tvg-chno="101" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/wk9Baz9.png",70s Cinema [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="102" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",7ala TV [Geo-blocked] [ZYZX:PS]
@@ -328,7 +329,7 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/8channeltv.png",8 канал (Витебск) (576p) [Not 24/7] [ZYZX:TV]
 http://95.46.208.8:24433/art
 
-#EXTINF:-1 tvg-chno="111" group-title="Movies" tvg-logo="https://i.imgur.com/0FaLAhK.png",80s Rewind [PLTO:TV]
+#EXTINF:-1 tvg-chno="111" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/0FaLAhK.png",80s Rewind [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="112" group-title="Music" tvg-logo="https://i.imgur.com/i3YwORV.png",88 Stereo (720p) [Not 24/7] [ZYZX:TV]
@@ -352,7 +353,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 #EXTINF:-1 tvg-chno="118" group-title="Movies" tvg-logo="https://i.imgur.com/KoGko6M.png",90s Throwback (684p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="119" group-title="Movies" tvg-logo="https://i.imgur.com/sI1o3uK.png",90s Throwback [PLTO:TV]
+#EXTINF:-1 tvg-chno="119" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/sI1o3uK.png",90s Throwback [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="120" group-title="XYZ" tvg-logo="",911 NETWORK [ZYZX:TV]
@@ -700,7 +701,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-chno="234" group-title="Movies" tvg-logo="https://i.imgur.com/yLlND3D.png",Action Movies Austria (720p) {Rakuten TV} [WURL:TV]
 https://rakuten-actionmovies-5-at.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="235" group-title="Movies" tvg-logo="https://i.imgur.com/g8PCdh6.png",Action {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="235" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/g8PCdh6.png",Action {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="236" group-title="XYZ" tvg-logo="",Actionable (720p) [UNRL:ME]
@@ -1693,7 +1694,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bc
 #EXTINF:-1 tvg-chno="565" group-title="Series" tvg-logo="https://i.imgur.com/BH1EaB9.png",Andromeda Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLat=0&deviceLon=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="566" group-title="Italy" tvg-logo="https://i.imgur.com/2HFhwX9.png",Andromeda – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="566" group-title="VOD Italy" tvg-logo="https://i.imgur.com/2HFhwX9.png",Andromeda – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="567" group-title="XYZ" tvg-logo="https://i.imgur.com/7pfXF8N.png",Anexión TV Canal 36 (1080p) [ZYZX:TV]
@@ -1738,7 +1739,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/play
 #EXTINF:-1 tvg-chno="580" group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Spanish (720p) [WWZA:TV]
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="581" group-title="Italy" tvg-logo="https://i.imgur.com/Q60nHCt.png",Anima Latina – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="581" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Q60nHCt.png",Anima Latina – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="582" group-title="Kids" tvg-logo="https://i.imgur.com/MSGZ3S9.png",Animakids (Spain) (720p) {Pluto TV} [PLTO:TV]
@@ -2179,10 +2180,10 @@ http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-chno="727" group-title="Series" tvg-logo="https://i.imgur.com/dx9tt1B.png",Asylum (1080p) [AMGI:TV]
 https://asylum-stirr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="728" group-title="Movies" tvg-logo="https://i.imgur.com/rOxQfdG.png",Asylum [PLTO:TV]
+#EXTINF:-1 tvg-chno="728" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/rOxQfdG.png",Asylum [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-chno="729" group-title="Italy" tvg-logo="https://i.imgur.com/S2jlaiJ.png",Asylum – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="729" group-title="VOD Italy" tvg-logo="https://i.imgur.com/S2jlaiJ.png",Asylum – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="730" group-title="XYZ" tvg-logo="https://i.imgur.com/iAiSlEL.png",AT5 [ZYZX:AM]
@@ -2353,7 +2354,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007
 #EXTINF:-1 tvg-chno="785" group-title="Auto" tvg-logo="https://i.imgur.com/CnbWNc1.png",AutoMoto (720p) {Bumblebee TV} [UNRL:ME]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="786" group-title="Italy" tvg-logo="https://i.imgur.com/rpC1qk7.png",Autostop per il cielo – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="786" group-title="VOD Italy" tvg-logo="https://i.imgur.com/rpC1qk7.png",Autostop per il cielo – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="787" group-title="XYZ" tvg-logo="https://i.imgur.com/bEJK3RN.png",Auténtica Televisión (720p) [Not 24/7] [OSST:TV]
@@ -2377,7 +2378,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600adbdf8
 #EXTINF:-1 tvg-chno="793" group-title="XYZ" tvg-logo="",Avatar La Leggenda di Aang Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="794" group-title="Italy" tvg-logo="https://i.imgur.com/KDSStnJ.png",Avatar – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="794" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KDSStnJ.png",Avatar – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="795" group-title="XYZ" tvg-logo="https://i.imgur.com/8CT4y1O.png",AVC HD (720p) [BZTV:TV]
@@ -2842,7 +2843,7 @@ https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-chno="948" group-title="Lifestyle" tvg-logo="https://i.imgur.com/nLS7Oh2.png",Best Life (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="949" group-title="Italy" tvg-logo="https://i.imgur.com/SEtDTWB.png",Best of The Drew Barrymore Show – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="949" group-title="VOD Italy" tvg-logo="https://i.imgur.com/SEtDTWB.png",Best of The Drew Barrymore Show – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c69a45d3485c00076c1a06/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="950" group-title="XYZ" tvg-logo="https://i.imgur.com/AeeeDUc.png",Best TV (720p) [Not 24/7] [ZYZX:GR]
@@ -2995,7 +2996,7 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="999" group-title="Movies" tvg-logo="https://i.imgur.com/FKBp987.png",Black Cinema (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58af4c093a41ca9d4ecabe96&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=80&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="1000" group-title="Movies" tvg-logo="https://i.imgur.com/Zh1QGW9.png",Black Cinema [PLTO:TV]
+#EXTINF:-1 tvg-chno="1000" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/Zh1QGW9.png",Black Cinema [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="1001" group-title="Series" tvg-logo="https://i.imgur.com/QnuIVB6.png",Black Ink Crew (720p) {Pluto TV} [PLTO:TV]
@@ -3127,7 +3128,7 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-chno="1043" group-title="Outdoor" tvg-logo="https://i.imgur.com/qlhS2zw.png",Boat Show (720p) [AMZN:TV]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
-#EXTINF:-1 tvg-chno="1044" group-title="Italy" tvg-logo="https://i.imgur.com/cPTLian.png",Boat Show [AMZN:TV]
+#EXTINF:-1 tvg-chno="1044" group-title="VOD Italy" tvg-logo="https://i.imgur.com/cPTLian.png",Boat Show [AMZN:TV]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 
 #EXTINF:-1 tvg-chno="1045" group-title="Kids" tvg-logo="https://i.imgur.com/npxaOtl.png",Bob Esponja (720p) {Pluto TV} [PLTO:TV]
@@ -4405,7 +4406,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="1469" group-title="Italy" tvg-logo="https://i.imgur.com/WL3SFTs.png",Casa Sanremo Tv [XDVL:TV]
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="1470" group-title="Italy" tvg-logo="https://i.imgur.com/v8IDWwX.png",Case Pazzesche – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1470" group-title="VOD Italy" tvg-logo="https://i.imgur.com/v8IDWwX.png",Case Pazzesche – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1471" group-title="News" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News (576p) [Not 24/7] [IDTV:KZ]
@@ -4426,7 +4427,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007
 #EXTINF:-1 tvg-chno="1476" group-title="Entertainment" tvg-logo="https://i.imgur.com/y29cMbx.png",Catfish TV Show Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="1477" group-title="Italy" tvg-logo="https://i.imgur.com/KajHKoP.png",Catfish – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1477" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KajHKoP.png",Catfish – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1478" group-title="Religious" tvg-logo="https://i.imgur.com/RI9GbLX.jpg",Catholic TV [AKMZ:TV]
@@ -4597,7 +4598,7 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 #EXTINF:-1 tvg-chno="1533" group-title="News" tvg-logo="https://i.imgur.com/0e1kSGX.png",CBS News Sacramento (720p) [AKMZ:TV]
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 
-#EXTINF:-1 tvg-chno="1534" group-title="Italy" tvg-logo="https://i.imgur.com/ApsK6Eq.png",CBS News – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1534" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ApsK6Eq.png",CBS News – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1535" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS Tallahassee FL (WCTV1) (720p) [Not 24/7] [STLK:TV]
@@ -5053,7 +5054,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-chno="1685" group-title="XYZ" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV [SLMD:TV]
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-chno="1686" group-title="Italy" tvg-logo="https://i.imgur.com/uD3N2If.png",Chilevision Noticias – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1686" group-title="VOD Italy" tvg-logo="https://i.imgur.com/uD3N2If.png",Chilevision Noticias – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/627d16b55b43690007badae0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1687" group-title="XYZ" tvg-logo="https://i.imgur.com/PRijvR0.png",ChileVisión (720p) [Geo-blocked] [ZYZX:CO]
@@ -5116,7 +5117,7 @@ https://s13.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="1706" group-title="Entertainment" tvg-logo="https://i.imgur.com/iHjdckl.png",Cibaeña TV (720p) [ZYZX:TV]
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-1 tvg-chno="1707" group-title="Italy" tvg-logo="https://i.imgur.com/zrnI5YH.png",Ciclismo – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1707" group-title="VOD Italy" tvg-logo="https://i.imgur.com/zrnI5YH.png",Ciclismo – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5825da71180008acebb4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1708" group-title="XYZ" tvg-logo="https://i.imgur.com/2PNw6BA.png",Cielo TV (1080p) [ZYZX:TV]
@@ -5203,7 +5204,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-chno="1735" group-title="XYZ" tvg-logo="",Cinema Hausa (720p) [COOO:ZA]
 https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1736" group-title="Italy" tvg-logo="https://i.imgur.com/drDX5DC.png",Cinema Italiano  – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1736" group-title="VOD Italy" tvg-logo="https://i.imgur.com/drDX5DC.png",Cinema Italiano  – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1737" group-title="Movies" tvg-logo="https://i.imgur.com/w3lUi4t.png",Cinema Italiano Italy (720p) {Pluto TV} [PLTO:TV]
@@ -5572,7 +5573,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004
 #EXTINF:-1 tvg-chno="1858" group-title="XYZ" tvg-logo="",Classic Movies (England) (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="1859" group-title="Movies" tvg-logo="https://i.imgur.com/feWPHep.png",Classic Movies [PLTO:TV]
+#EXTINF:-1 tvg-chno="1859" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/feWPHep.png",Classic Movies [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="1860" group-title="Kids" tvg-logo="https://i.imgur.com/Crip6wT.png",Classic Nick (Brazil) (240p) {Pluto TV} [PLTO:TV]
@@ -5602,7 +5603,7 @@ https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-chno="1868" group-title="XYZ" tvg-logo="",ClassicalFM [Geo-blocked] [ONRD:TV]
 https://ythls.onrender.com/channel/UC_DweJsPH4mvcRU3aFwVtqg.m3u8
 
-#EXTINF:-1 tvg-chno="1869" group-title="Italy" tvg-logo="https://i.imgur.com/ytN6jfl.jpeg",Classico – Rakuten TV [WURL:TV]
+#EXTINF:-1 tvg-chno="1869" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ytN6jfl.jpeg",Classico – Rakuten TV [WURL:TV]
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1870" group-title="Movies" tvg-logo="https://i.imgur.com/dxPsj2s.png",Classics 2 (720p) {Bumblebee TV} [UNRL:ME]
@@ -5635,13 +5636,13 @@ https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="1879" group-title="Music" tvg-logo="https://i.imgur.com/8giAFx5.png",Clubbing TV (720p) [AMGI:TV]
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1880" group-title="Italy" tvg-logo="https://i.imgur.com/D1IuAqu.jpg",Clubbing TV [AMGI:TV]
+#EXTINF:-1 tvg-chno="1880" group-title="VOD Italy" tvg-logo="https://i.imgur.com/D1IuAqu.jpg",Clubbing TV [AMGI:TV]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1881" group-title="Music" tvg-logo="https://i.imgur.com/juE5Ftv.png",Clubbing TV Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="1882" group-title="Italy" tvg-logo="https://i.imgur.com/D5U4unl.png",Clubbing TV – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1882" group-title="VOD Italy" tvg-logo="https://i.imgur.com/D5U4unl.png",Clubbing TV – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1883" group-title="Music" tvg-logo="https://i.imgur.com/L38mC6H.png",CMC (California Music Channel) [AMGI:TV]
@@ -5899,7 +5900,7 @@ https://rakuten-comedymovies-5-at.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="1967" group-title="Comedy" tvg-logo="https://i.imgur.com/Vt7fObg.png",Comedy Play (720p) [ZYZX:RO]
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1968" group-title="Movies" tvg-logo="https://i.imgur.com/Pjs4lgs.png",Comedy {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="1968" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/Pjs4lgs.png",Comedy {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="1969" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",Comet (720p) [UPLK:TV]
@@ -5977,7 +5978,7 @@ https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-chno="1993" group-title="Series" tvg-logo="https://i.imgur.com/fjs80SU.png",Consulenze Illegali Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="1994" group-title="Italy" tvg-logo="https://i.imgur.com/AoOiYJX.png",Consulenze illegali – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="1994" group-title="VOD Italy" tvg-logo="https://i.imgur.com/AoOiYJX.png",Consulenze illegali – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="1995" group-title="News" tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png",Contacto Bolivia [ZYZX:TV]
@@ -6190,13 +6191,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d
 #EXTINF:-1 tvg-chno="2064" group-title="Movies" tvg-logo="https://i.imgur.com/SJcqknt.png",Crime Movies (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="2065" group-title="Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png",Crime Movies {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2065" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/PlAQrIb.png",Crime Movies {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="2066" group-title="XYZ" tvg-logo="",Crime TV (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d2c571faeb3e2738ae27933&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=470&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="2067" group-title="Italy" tvg-logo="https://i.imgur.com/WRMGIdb.png",Crime – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2067" group-title="VOD Italy" tvg-logo="https://i.imgur.com/WRMGIdb.png",Crime – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2068" group-title="XYZ" tvg-logo="",Crime+ (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
@@ -6328,7 +6329,7 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-chno="2110" group-title="Lifestyle" tvg-logo="https://i.imgur.com/cwkrxcS.png",Cucina Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2111" group-title="Italy" tvg-logo="https://i.imgur.com/KsOhaOn.png",Cucina – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2111" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KsOhaOn.png",Cucina – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2112" group-title="Lifestyle" tvg-logo="https://i.imgur.com/OuAi5ef.png",Cuisine (480p) {Pluto TV} [PLTO:TV]
@@ -6337,7 +6338,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e0007
 #EXTINF:-1 tvg-chno="2113" group-title="Movies" tvg-logo="https://i.imgur.com/xoaIAus.png",Cult Films (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="2114" group-title="Movies" tvg-logo="https://i.imgur.com/kD3SkoC.png",Cult Films {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2114" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/kD3SkoC.png",Cult Films {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="2115" group-title="Culture" tvg-logo="https://i.imgur.com/2mSwwpH.png",Cultura 24 (360p) [Not 24/7] [ZYZX:TV]
@@ -6661,13 +6662,13 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 #EXTINF:-1 tvg-chno="2221" group-title="Music" tvg-logo="https://i.imgur.com/DnMzWiG.png",Deluxe Lounge HD [AMZN:TV]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
-#EXTINF:-1 tvg-chno="2222" group-title="Italy" tvg-logo="https://i.imgur.com/LzIsXym.png",Deluxe Lounge HD [AMZN:TV]
+#EXTINF:-1 tvg-chno="2222" group-title="VOD Italy" tvg-logo="https://i.imgur.com/LzIsXym.png",Deluxe Lounge HD [AMZN:TV]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
 
 #EXTINF:-1 tvg-chno="2223" group-title="Germany" tvg-logo="https://i.imgur.com/JN6Kd0q.png",Deluxe Lounge HD [OTRA:TV]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 
-#EXTINF:-1 tvg-chno="2224" group-title="Italy" tvg-logo="https://i.imgur.com/mTXgaKl.png",Deluxe Lounge HD – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2224" group-title="VOD Italy" tvg-logo="https://i.imgur.com/mTXgaKl.png",Deluxe Lounge HD – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2225" group-title="Music" tvg-logo="https://i.imgur.com/XWWTrKW.png",Deluxe Music (720p) [ZYZX:TV]
@@ -6967,25 +6968,25 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d
 #EXTINF:-1 tvg-chno="2323" group-title="XYZ" tvg-logo="",Doctor Who {BBC} [WURL:TV]
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2324" group-title="Italy" tvg-logo="https://i.imgur.com/J2B9FjO.jpg",Doctor Who {BBC} [WURL:TV]
+#EXTINF:-1 tvg-chno="2324" group-title="VOD Italy" tvg-logo="https://i.imgur.com/J2B9FjO.jpg",Doctor Who {BBC} [WURL:TV]
 https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2325" group-title="Italy" tvg-logo="https://i.imgur.com/oewPc3b.png",Doctor Who – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2325" group-title="VOD Italy" tvg-logo="https://i.imgur.com/oewPc3b.png",Doctor Who – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2326" group-title="Documentary" tvg-logo="https://i.imgur.com/pX4U9OG.png",DocuBox (576p) [LAKI:EU]
 https://vod1.laki.eu/docubox/video.m3u8
 
-#EXTINF:-1 tvg-chno="2327" group-title="Italy" tvg-logo="https://i.imgur.com/0jYrODf.png",Documentari – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2327" group-title="VOD Italy" tvg-logo="https://i.imgur.com/0jYrODf.png",Documentari – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="2328" group-title="Italy" tvg-logo="https://i.imgur.com/rAHBiO8.jpg",Documentari – Rakuten TV [WURL:TV]
+#EXTINF:-1 tvg-chno="2328" group-title="VOD Italy" tvg-logo="https://i.imgur.com/rAHBiO8.jpg",Documentari – Rakuten TV [WURL:TV]
 https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2329" group-title="Documentary" tvg-logo="https://i.imgur.com/ICOzMFc.png",Documentaries (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="2330" group-title="Movies" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png",Documentaries {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2330" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png",Documentaries {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="2331" group-title="XYZ" tvg-logo="",Documentary Italy (720p) {Pluto TV} [PLTO:TV]
@@ -7093,10 +7094,10 @@ https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="2365" group-title="XYZ" tvg-logo="",Drama {BBC} [WURL:TV]
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2366" group-title="Movies" tvg-logo="https://i.imgur.com/B9srooj.png",Drama {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2366" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/B9srooj.png",Drama {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-chno="2367" group-title="Italy" tvg-logo="https://i.imgur.com/CrAqXHJ.png",Drama – Pluto TV {BBC} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2367" group-title="VOD Italy" tvg-logo="https://i.imgur.com/CrAqXHJ.png",Drama – Pluto TV {BBC} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2368" group-title="XYZ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamtv.png",Dream TV (480p) [ZYZX:TV]
@@ -7192,13 +7193,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6b54b9e
 #EXTINF:-1 tvg-chno="2398" group-title="Kids" tvg-logo="https://i.imgur.com/gRFQ35W.png",Duck TV (576p) [ZYZX:TV]
 http://85.11.144.8:5666/DuckTV?token=test
 
-#EXTINF:-1 tvg-chno="2399" group-title="Italy" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg",duckTV [WURL:TV]
+#EXTINF:-1 tvg-chno="2399" group-title="VOD Italy" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg",duckTV [WURL:TV]
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2400" group-title="XYZ" tvg-logo="",Due Fantagenitori Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2401" group-title="Italy" tvg-logo="https://i.imgur.com/HOvLgGK.png",Due Fantagenitori – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2401" group-title="VOD Italy" tvg-logo="https://i.imgur.com/HOvLgGK.png",Due Fantagenitori – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2402" group-title="XYZ" tvg-logo="https://i.imgur.com/Zh60l1x.png",Dukh Nivaran (720p) [Not 24/7] [ZYZX:TV]
@@ -7921,7 +7922,7 @@ https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1 tvg-chno="2641" group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Hungary (720p) [Not 24/7] [ONRD:TV]
 https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 
-#EXTINF:-1 tvg-chno="2642" group-title="Italy" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg",Euronews in diretta [WURL:TV]
+#EXTINF:-1 tvg-chno="2642" group-title="VOD Italy" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg",Euronews in diretta [WURL:TV]
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2643" group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Italian [ZYZX:TV]
@@ -7945,7 +7946,7 @@ https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-chno="2649" group-title="Russia" tvg-logo="https://i.imgur.com/8MsbPCU.png",Euronews по-русски [ZYZX:TV]
 https://euronews.alteox.app/hls/ru_stream.m3u8
 
-#EXTINF:-1 tvg-chno="2650" group-title="Italy" tvg-logo="https://i.imgur.com/Zpf2ykM.png",Euronews – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2650" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Zpf2ykM.png",Euronews – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2651" group-title="Music" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV (1080p) [Geo-blocked] [YNDX:RU]
@@ -7999,7 +8000,7 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="2667" group-title="Entertainment" tvg-logo="https://i.imgur.com/bMs75oe.png",Ex On The Beach Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2668" group-title="Italy" tvg-logo="https://i.imgur.com/IONkdyk.png",Ex on the beach – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2668" group-title="VOD Italy" tvg-logo="https://i.imgur.com/IONkdyk.png",Ex on the beach – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2669" group-title="XYZ" tvg-logo="https://i.imgur.com/bJpjfpt.png",Excélsior TV (720p) [Not 24/7] [ONRD:TV]
@@ -8077,7 +8078,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="2693" group-title="Religious" tvg-logo="https://i.imgur.com/MBZ4sSA.png",Fadak TV (1080p) [Not 24/7] [ONRD:TV]
 https://ythls.onrender.com/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8
 
-#EXTINF:-1 tvg-chno="2694" group-title="Italy" tvg-logo="https://i.imgur.com/SqRDd2U.png",Fail army – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2694" group-title="VOD Italy" tvg-logo="https://i.imgur.com/SqRDd2U.png",Fail army – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2695" group-title="Comedy" tvg-logo="https://i.imgur.com/t3IjyYJ.png",Failarmy [WURL:TV]
@@ -8137,10 +8138,10 @@ https://rakuten-family-4-ch.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="2713" group-title="Series" tvg-logo="https://i.imgur.com/WJEkKCb.png",Family Ties (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="2714" group-title="Italy" tvg-logo="https://i.imgur.com/Wux4qyT.png",Family – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2714" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Wux4qyT.png",Family – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="2715" group-title="Italy" tvg-logo="https://i.imgur.com/BCC123A.jpg",Family – Rakuten TV [WURL:TV]
+#EXTINF:-1 tvg-chno="2715" group-title="VOD Italy" tvg-logo="https://i.imgur.com/BCC123A.jpg",Family – Rakuten TV [WURL:TV]
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2716" group-title="Animation" tvg-logo="https://i.imgur.com/mDeTbaF.png",FAN (576p) [Not 24/7] [ZYZX:TV]
@@ -8152,7 +8153,7 @@ https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E
 #EXTINF:-1 tvg-chno="2718" group-title="Series" tvg-logo="https://i.imgur.com/MCu7YTA.png",Fantastic (684p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b64a245a202b3337f09e51d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=66&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="2719" group-title="Movies" tvg-logo="https://i.imgur.com/dOfXc5w.png",Fantastic {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="2719" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/dOfXc5w.png",Fantastic {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="2720" group-title="XYZ" tvg-logo="https://i.imgur.com/X19638q.png",Faros TV (540p) [Geo-blocked] [ZYZX:TV]
@@ -8182,7 +8183,7 @@ https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1 tvg-chno="2728" group-title="Lifestyle" tvg-logo="https://i.imgur.com/b4KYkyd.png",Fashion TV (England) (1080p) [Not 24/7] [WURL:TV]
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2729" group-title="Italy" tvg-logo="https://i.imgur.com/KT3zgc1.png",Fashion TV [WURL:TV]
+#EXTINF:-1 tvg-chno="2729" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KT3zgc1.png",Fashion TV [WURL:TV]
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2730" group-title="XXX" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Midnight Secrets (1080p) [ZYZX:TV]
@@ -8197,7 +8198,7 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-chno="2733" group-title="Lifestyle" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD (2160p) [ZYZX:TV]
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2734" group-title="Italy" tvg-logo="https://i.imgur.com/cC0wrqG.png",Fashion – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2734" group-title="VOD Italy" tvg-logo="https://i.imgur.com/cC0wrqG.png",Fashion – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2735" group-title="Lifestyle" tvg-logo="https://i.imgur.com/Taqj4yi.png",FashionBox (576p) [LAKI:EU]
@@ -8305,7 +8306,7 @@ https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
 #EXTINF:-1 tvg-chno="2769" group-title="Movies" tvg-logo="https://i.imgur.com/aQ18r9x.png",Film Azione Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2770" group-title="Italy" tvg-logo="https://i.imgur.com/ZmAuf3H.png",Film Azione – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2770" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ZmAuf3H.png",Film Azione – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2771" group-title="Movies" tvg-logo="https://i.imgur.com/RydfsE9.png",Film Box [ZYZX:TV]
@@ -8317,25 +8318,25 @@ https://vod1.laki.eu/arthouse/playlist.m3u8
 #EXTINF:-1 tvg-chno="2773" group-title="Movies" tvg-logo="https://i.imgur.com/YEbc5EM.png",Film Classici Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2774" group-title="Italy" tvg-logo="https://i.imgur.com/jNyZPLV.png",Film Classici – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2774" group-title="VOD Italy" tvg-logo="https://i.imgur.com/jNyZPLV.png",Film Classici – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2775" group-title="Movies" tvg-logo="https://i.imgur.com/ADNrqKM.png",Film Commedia Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2776" group-title="Italy" tvg-logo="https://i.imgur.com/cSKaVHW.png",Film Commedia – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2776" group-title="VOD Italy" tvg-logo="https://i.imgur.com/cSKaVHW.png",Film Commedia – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2777" group-title="Movies" tvg-logo="https://i.imgur.com/yfOwmsP.png",Film Detective [AMGI:TV]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2778" group-title="Movies" tvg-logo="https://i.imgur.com/4aFLH9g.png",Film Detective [GOOG:TV]
+#EXTINF:-1 tvg-chno="2778" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/4aFLH9g.png",Film Detective [GOOG:TV]
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 
 #EXTINF:-1 tvg-chno="2779" group-title="Movies" tvg-logo="https://i.imgur.com/dOxuHUn.png",Film Drama Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2780" group-title="Italy" tvg-logo="https://i.imgur.com/X8jimKP.png",Film Drama – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2780" group-title="VOD Italy" tvg-logo="https://i.imgur.com/X8jimKP.png",Film Drama – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2781" group-title="Movies" tvg-logo="https://i.imgur.com/MRU0d3y.png",Film Hub (720p) [XUMO:TV]
@@ -8347,16 +8348,16 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c48
 #EXTINF:-1 tvg-chno="2783" group-title="Movies" tvg-logo="https://i.imgur.com/LAvRDve.png",Film Romantici Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2784" group-title="Italy" tvg-logo="https://i.imgur.com/KxPsLG3.png",Film Romantici – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2784" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KxPsLG3.png",Film Romantici – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2785" group-title="Movies" tvg-logo="https://i.imgur.com/3SWPIek.png",Film Thriller Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2786" group-title="Italy" tvg-logo="https://i.imgur.com/hIWMGRW.png",Film Thriller – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2786" group-title="VOD Italy" tvg-logo="https://i.imgur.com/hIWMGRW.png",Film Thriller – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="2787" group-title="Italy" tvg-logo="https://i.imgur.com/QeFc7F3.png",Film – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2787" group-title="VOD Italy" tvg-logo="https://i.imgur.com/QeFc7F3.png",Film – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2788" group-title="Movies" tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png",Filmeraa (720p) [JSRD:TV]
@@ -8389,10 +8390,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playl
 #EXTINF:-1 tvg-chno="2797" group-title="Movies" tvg-logo="https://i.imgur.com/X7U7ikq.png",FilmRise Free Movies (Redbox) (720p) [XUMO:TV]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2798" group-title="Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png",FilmRise Movies [XUMO:TV]
+#EXTINF:-1 tvg-chno="2798" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/jGzMaRD.png",FilmRise Movies [XUMO:TV]
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2799" group-title="Movies" tvg-logo="https://i.imgur.com/FcN1OKo.png",FilmRise Sci-Fi [XUMO:TV]
+#EXTINF:-1 tvg-chno="2799" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/FcN1OKo.png",FilmRise Sci-Fi [XUMO:TV]
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 
 #EXTINF:-1 tvg-chno="2800" group-title="Movies;Series" tvg-logo="https://i.imgur.com/ZoOCSij.png",FilmRise Sci-Fi Finland [CFNT:TV]
@@ -8470,7 +8471,7 @@ https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-chno="2824" group-title="Movies" tvg-logo="https://i.imgur.com/rtL5L81.png",Flicks of Fury (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="2825" group-title="Movies" tvg-logo="https://i.imgur.com/yhyzBfb.png",Flicks of Fury [PLTO:TV]
+#EXTINF:-1 tvg-chno="2825" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/yhyzBfb.png",Flicks of Fury [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="2826" group-title="Legislative" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",Florida Channel (480p) [KTRA:TV]
@@ -8551,7 +8552,7 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-chno="2851" group-title="XYZ" tvg-logo="",Food Mania Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8d89538acc8000706fbae/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2852" group-title="Italy" tvg-logo="https://i.imgur.com/1R1wDP7.png",Food Mania – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2852" group-title="VOD Italy" tvg-logo="https://i.imgur.com/1R1wDP7.png",Food Mania – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d89538acc8000706fbae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2853" group-title="Cooking" tvg-logo="https://i.imgur.com/WGUPTnL.png",Food TV (240p) {Pluto TV} [PLTO:TV]
@@ -8788,10 +8789,10 @@ https://siloh.pluto.tv/lilo/production/FuelTV/master.m3u8
 #EXTINF:-1 tvg-chno="2930" group-title="XYZ" tvg-logo="",Fuel TV (720p) {Pluto TV} [PLTO:TV]
 https://siloh.pluto.tv/lilo/production/FuelTV/SP/master.m3u8
 
-#EXTINF:-1 tvg-chno="2931" group-title="Italy" tvg-logo="https://i.imgur.com/4Lzo6M4.png",FUEL TV [WURL:TV]
+#EXTINF:-1 tvg-chno="2931" group-title="VOD Italy" tvg-logo="https://i.imgur.com/4Lzo6M4.png",FUEL TV [WURL:TV]
 https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2932" group-title="Italy" tvg-logo="https://i.imgur.com/sfL6NXb.png",FUEL TV – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2932" group-title="VOD Italy" tvg-logo="https://i.imgur.com/sfL6NXb.png",FUEL TV – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2933" group-title="XYZ" tvg-logo="https://fuengirolatv.com/ftv/wp-content/uploads/2021/02/logopieftv.png",Fuengirola TV (360p) [Not 24/7] [TDST:ES]
@@ -8986,7 +8987,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 #EXTINF:-1 tvg-chno="2996" group-title="Entertainment" tvg-logo="https://i.imgur.com/WOkqDRi.png",Geordie Shore Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="2997" group-title="Italy" tvg-logo="https://i.imgur.com/y0fkHVi.png",Geordie Shore – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="2997" group-title="VOD Italy" tvg-logo="https://i.imgur.com/y0fkHVi.png",Geordie Shore – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="2998" group-title="XYZ" tvg-logo="https://i.imgur.com/6f7TTZC.png",Get.factual (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
@@ -9343,7 +9344,7 @@ https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-chno="3115" group-title="XYZ" tvg-logo="",Got Game Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e9119366401100074dd3fdlivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3116" group-title="Italy" tvg-logo="https://i.imgur.com/w9EJUQ3.png",Got Game – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3116" group-title="VOD Italy" tvg-logo="https://i.imgur.com/w9EJUQ3.png",Got Game – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61e9119366401100074dd3fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3117" group-title="XYZ" tvg-logo="https://i.imgur.com/jPSryfu.png",GoTV (576p) [ZYZX:AT]
@@ -9364,13 +9365,13 @@ https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="3122" group-title="Religious" tvg-logo="https://i.imgur.com/JPBkMku.png",Gracia TV (1080p) [Not 24/7] [TUST:CL]
 http://v3.tustreaming.cl/graciatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="3123" group-title="Italy" tvg-logo="https://i.imgur.com/PBTdU4G.png",Grande Fratello Vip Regia 1 Ⓢ Ⓖ [ZYZX:TV]
+#EXTINF:-1 tvg-chno="3123" group-title="VOD Italy" tvg-logo="https://i.imgur.com/PBTdU4G.png",Grande Fratello Vip Regia 1 Ⓢ Ⓖ [ZYZX:TV]
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
 
-#EXTINF:-1 tvg-chno="3124" group-title="Italy" tvg-logo="https://i.imgur.com/FKfwbHD.png",Grande Fratello Vip Regia 2 Ⓢ Ⓖ [ZYZX:TV]
+#EXTINF:-1 tvg-chno="3124" group-title="VOD Italy" tvg-logo="https://i.imgur.com/FKfwbHD.png",Grande Fratello Vip Regia 2 Ⓢ Ⓖ [ZYZX:TV]
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 
-#EXTINF:-1 tvg-chno="3125" group-title="Italy" tvg-logo="https://i.imgur.com/fFZeBnc.png",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ [ZYZX:TV]
+#EXTINF:-1 tvg-chno="3125" group-title="VOD Italy" tvg-logo="https://i.imgur.com/fFZeBnc.png",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ [ZYZX:TV]
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
 
 #EXTINF:-1 tvg-chno="3126" group-title="XYZ" tvg-logo="",Grapevine [OTRA:TV]
@@ -9982,10 +9983,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606
 #EXTINF:-1 tvg-chno="3328" group-title="Movies" tvg-logo="https://i.imgur.com/aQByN9e.png",Horror Movies (720p) {STIRR} [GOOG:TV]
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
-#EXTINF:-1 tvg-chno="3329" group-title="Movies" tvg-logo="https://i.imgur.com/An93hAh.png",Horror {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="3329" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/An93hAh.png",Horror {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-chno="3330" group-title="Italy" tvg-logo="https://i.imgur.com/zhoHRSE.png",Horror – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3330" group-title="VOD Italy" tvg-logo="https://i.imgur.com/zhoHRSE.png",Horror – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3331" group-title="Outdoor" tvg-logo="https://i.imgur.com/1x6zYZr.png",Horse and Country Free [AMGI:TV]
@@ -10174,7 +10175,7 @@ https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-chno="3392" group-title="XYZ" tvg-logo="https://i.imgur.com/Gg6OcGT.png",I AM CHANNEL (576p) [Not 24/7] [ZYZX:TV]
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3393" group-title="Italy" tvg-logo="https://i.imgur.com/PEjrLRc.png",I Jefferson – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3393" group-title="VOD Italy" tvg-logo="https://i.imgur.com/PEjrLRc.png",I Jefferson – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62442f28afe626000747f195/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3394" group-title="News" tvg-logo="https://i-ua.tv/images/jursspublisher/logos/logo500.png",I-UA.tv (1080p) [ZYZX:TV]
@@ -10339,7 +10340,7 @@ https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3
 #EXTINF:-1 tvg-chno="3447" group-title="Entertainment" tvg-logo="https://i.imgur.com/a1wIzng.png",IGN Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3448" group-title="Italy" tvg-logo="https://i.imgur.com/9SsTKJu.png",IGN – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3448" group-title="VOD Italy" tvg-logo="https://i.imgur.com/9SsTKJu.png",IGN – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3449" group-title="XYZ" tvg-logo="https://i.imgur.com/rsptpwe.png",Igreja Online (1080p) [Not 24/7] [MNST:TV]
@@ -10357,19 +10358,19 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3453" group-title="Entertainment" tvg-logo="https://i.imgur.com/NZDUlME.png",Il Banco dei Pugni Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3454" group-title="Italy" tvg-logo="https://i.imgur.com/2Lj1sdf.png",Il banco dei pugni – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3454" group-title="VOD Italy" tvg-logo="https://i.imgur.com/2Lj1sdf.png",Il banco dei pugni – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3455" group-title="XYZ" tvg-logo="",Il mio amico Arnold Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385eb5588399a000759ef45/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3456" group-title="Italy" tvg-logo="https://i.imgur.com/Pkd62T6.png",Il mio amico Arnold – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3456" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Pkd62T6.png",Il mio amico Arnold – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6385eb5588399a000759ef45/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3457" group-title="XYZ" tvg-logo="",Il Testimone Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3458" group-title="Italy" tvg-logo="https://i.imgur.com/9NXL9kY.png",Il Testimone – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3458" group-title="VOD Italy" tvg-logo="https://i.imgur.com/9NXL9kY.png",Il Testimone – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3459" group-title="XYZ" tvg-logo="https://i.imgur.com/fVhrJHK.png",ILTV (720p) [ZYZX:TV]
@@ -10441,7 +10442,7 @@ https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 #EXTINF:-1 tvg-chno="3481" group-title="XYZ" tvg-logo="https://i.imgur.com/a9hgTmM.png",Imás TV (1080p) [Not 24/7] [TDST:ES]
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 tvg-chno="3482" group-title="Italy" tvg-logo="https://i.imgur.com/2u1ic6X.png",Inazuma Eleven – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3482" group-title="VOD Italy" tvg-logo="https://i.imgur.com/2u1ic6X.png",Inazuma Eleven – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3483" group-title="XYZ" tvg-logo="https://i.imgur.com/JGSLqA6.png",INC TV (1080p) [AKMZ:TV]
@@ -10582,7 +10583,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009
 #EXTINF:-1 tvg-chno="3528" group-title="XYZ" tvg-logo="https://i.imgur.com/BF5orkg.png",Inspira TV (720p) [Not 24/7] [SIAR:US]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3529" group-title="Italy" tvg-logo="https://i.imgur.com/IcxaYBr.png",Instant Mom – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3529" group-title="VOD Italy" tvg-logo="https://i.imgur.com/IcxaYBr.png",Instant Mom – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63f48f3e219c4c0008f703c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3530" group-title="XYZ" tvg-logo="https://i.imgur.com/PMpwaQN.png",Instant Saga (720p) [PLTO:TV]
@@ -10939,7 +10940,7 @@ http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-chno="3647" group-title="XYZ" tvg-logo="https://i.imgur.com/o3D4bQI.png",JenaTV [ZYZX:DE]
 https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3648" group-title="Italy" tvg-logo="https://i.imgur.com/HIlmQEy.png",Jersey Shore – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3648" group-title="VOD Italy" tvg-logo="https://i.imgur.com/HIlmQEy.png",Jersey Shore – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3649" group-title="XYZ" tvg-logo="https://i.imgur.com/qy9Mutu.png",Jesus Temple TV (720p) [STLK:TV]
@@ -11116,10 +11117,10 @@ https://distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv
 #EXTINF:-1 tvg-chno="3706" group-title="Comedy" tvg-logo="https://i.imgur.com/NVJjree.png",Just for Laughs Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="3707" group-title="Italy" tvg-logo="https://i.imgur.com/VvEz0XX.png",Just for laughs – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3707" group-title="VOD Italy" tvg-logo="https://i.imgur.com/VvEz0XX.png",Just for laughs – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="3708" group-title="Italy" tvg-logo="https://i.imgur.com/UGx55Zq.png",Just Tattoo of Us – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3708" group-title="VOD Italy" tvg-logo="https://i.imgur.com/UGx55Zq.png",Just Tattoo of Us – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62618478b389bb0007b24c12/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3709" group-title="Comedy" tvg-logo="https://i.imgur.com/m5lO27j.png",Juste pour Rire (720p) [PLTO:TV]
@@ -11161,7 +11162,7 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-chno="3721" group-title="XYZ" tvg-logo="",K-Pop Channel [ZYZX:TV]
 http://177.53.152.186:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-chno="3722" group-title="Italy" tvg-logo="https://i.imgur.com/9Vp4rx2.png",K-Pop – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3722" group-title="VOD Italy" tvg-logo="https://i.imgur.com/9Vp4rx2.png",K-Pop – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3723" group-title="XYZ" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV (720p) [CFNT:TV]
@@ -11590,7 +11591,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab70008616
 #EXTINF:-1 tvg-chno="3864" group-title="Kids" tvg-logo="https://i.imgur.com/twXueoi.png",Kids Séries (360p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 
-#EXTINF:-1 tvg-chno="3865" group-title="Italy" tvg-logo="https://i.imgur.com/ybd7A0r.png",Kids – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="3865" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ybd7A0r.png",Kids – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="3866" group-title="Kids" tvg-logo="https://i.imgur.com/yg7MHn9.png",KidsClick (720p) [Geo-blocked] [ZYZX:TV]
@@ -12262,7 +12263,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549c238c3f210007
 #EXTINF:-1 tvg-chno="4088" group-title="Series" tvg-logo="https://i.imgur.com/OkGiH9a.png",Le sorelle McLeod Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="4089" group-title="Italy" tvg-logo="https://i.imgur.com/P310ryf.png",Le sorelle mcleod – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4089" group-title="VOD Italy" tvg-logo="https://i.imgur.com/P310ryf.png",Le sorelle mcleod – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4090" group-title="Legislative" tvg-logo="https://i.imgur.com/ROb1BNG.png",Leesburg Lakefront TV (Leesburg FL) (720p) [CCST:TV]
@@ -12796,7 +12797,7 @@ https://5ff3d9babae13.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-chno="4266" group-title="XYZ" tvg-logo="",MacGyver Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="4267" group-title="Italy" tvg-logo="https://i.imgur.com/bz9IwWU.png",MacGyver – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4267" group-title="VOD Italy" tvg-logo="https://i.imgur.com/bz9IwWU.png",MacGyver – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4268" group-title="XYZ" tvg-logo="https://i.imgur.com/5QQy3aW.png",Mad Dog and Merrill (540p) [Not 24/7] [BZTV:TV]
@@ -12892,7 +12893,7 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="4298" group-title="XYZ" tvg-logo="",Mai dire sì Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId={PSID}&advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplust=0&embedPartner=samsung-tvplus&profileFloor=&profileFloor=&profileLimit=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&samsung_app_name={APP_NAME}&us_privacy=1YNY&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="4299" group-title="Italy" tvg-logo="https://i.imgur.com/yIMyhSN.png",Mai dire sì – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4299" group-title="VOD Italy" tvg-logo="https://i.imgur.com/yIMyhSN.png",Mai dire sì – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4300" group-title="XYZ" tvg-logo="https://i.imgur.com/twldaaC.png",Maimón TV Canal 3 (720p) [DMNT:TV]
@@ -14140,7 +14141,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4714" group-title="Series" tvg-logo="https://i.imgur.com/aAUvd0j.png",Mutant X Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="4715" group-title="Italy" tvg-logo="https://i.imgur.com/SptYKFI.png",Mutant X – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4715" group-title="VOD Italy" tvg-logo="https://i.imgur.com/SptYKFI.png",Mutant X – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4716" group-title="Series" tvg-logo="https://i.imgur.com/LYmjmS8.png",Mutante X (720p) {Pluto TV} [PLTO:TV]
@@ -14467,7 +14468,7 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-chno="4823" group-title="Documentary" tvg-logo="https://i.imgur.com/bGZkH6b.png",Natura Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="4824" group-title="Italy" tvg-logo="https://i.imgur.com/Pc4gx12.png",Natura – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4824" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Pc4gx12.png",Natura – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4825" group-title="XYZ" tvg-logo="https://i.imgur.com/rfcJ674.png",Natural TV (720p) [Not 24/7] [ZYZX:TV]
@@ -14488,7 +14489,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d
 #EXTINF:-1 tvg-chno="4830" group-title="XYZ" tvg-logo="",Naturescape (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="4831" group-title="Italy" tvg-logo="https://i.imgur.com/CGB6qiV.png",Naturescape – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4831" group-title="VOD Italy" tvg-logo="https://i.imgur.com/CGB6qiV.png",Naturescape – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4832" group-title="Education" tvg-logo="https://i.imgur.com/RuyQQ6M.png",Natureza (720p) {Pluto TV} [PLTO:TV]
@@ -14968,7 +14969,7 @@ https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
 #EXTINF:-1 tvg-chno="4990" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png",Nickelodeon Sonic Hindi (1080p) [JCNM:TV]
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-chno="4991" group-title="Italy" tvg-logo="https://i.imgur.com/syX2HGd.png",Nickelodeon Ukraine – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="4991" group-title="VOD Italy" tvg-logo="https://i.imgur.com/syX2HGd.png",Nickelodeon Ukraine – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="4992" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nicktoons Scandinavia [ZYZX:TV]
@@ -16186,7 +16187,7 @@ http://45.145.32.11:20007/paramount_comedy/video.m3u8
 #EXTINF:-1 tvg-chno="5396" group-title="Movies" tvg-logo="https://i.imgur.com/sj5h9bl.png",Paramount Movie Channel (684p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="5397" group-title="Movies" tvg-logo="https://i.imgur.com/CfqRav0.png",Paramount Movie Channel [PLTO:TV]
+#EXTINF:-1 tvg-chno="5397" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/CfqRav0.png",Paramount Movie Channel [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="5398" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",Paramount Plus Picks (720p) [PLTO:TV]
@@ -16768,10 +16769,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95c119
 #EXTINF:-1 tvg-chno="5590" group-title="XYZ" tvg-logo="",People are Awesome (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="5591" group-title="Italy" tvg-logo="https://i.imgur.com/xwz9zKk.jpeg",People Are Awesome [WURL:TV]
+#EXTINF:-1 tvg-chno="5591" group-title="VOD Italy" tvg-logo="https://i.imgur.com/xwz9zKk.jpeg",People Are Awesome [WURL:TV]
 https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5592" group-title="Italy" tvg-logo="https://i.imgur.com/jn0OeWv.png",People are awesome – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="5592" group-title="VOD Italy" tvg-logo="https://i.imgur.com/jn0OeWv.png",People are awesome – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="5593" group-title="Entertainment" tvg-logo="https://i.imgur.com/hIdFAho.png",People TV (1080p) [CFNT:TV]
@@ -16876,7 +16877,7 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="5626" group-title="Family" tvg-logo="https://i.imgur.com/F4hEPMK.png",Pet Collective [WURL:TV]
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5627" group-title="Italy" tvg-logo="https://i.imgur.com/daTU44g.jpeg",Pet Collective [WURL:TV]
+#EXTINF:-1 tvg-chno="5627" group-title="VOD Italy" tvg-logo="https://i.imgur.com/daTU44g.jpeg",Pet Collective [WURL:TV]
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5628" group-title="Family" tvg-logo="https://i.imgur.com/Mk28uUy.png",Pet Collective International [WURL:TV]
@@ -16885,7 +16886,7 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="5629" group-title="Family" tvg-logo="https://i.imgur.com/MU21Zva.png",Pet Collective Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="5630" group-title="Italy" tvg-logo="https://i.imgur.com/034PrSz.png",pet collective – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="5630" group-title="VOD Italy" tvg-logo="https://i.imgur.com/034PrSz.png",pet collective – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="5631" group-title="Sports" tvg-logo="https://i.imgur.com/J0TY9dG.png",PGA TOUR (720p) {Pluto TV} [PLTO:TV]
@@ -16927,7 +16928,7 @@ https://stream.streaming4u.hu/PilisTV/index.m3u8
 #EXTINF:-1 tvg-chno="5643" group-title="XYZ" tvg-logo="",Pimp my Ride Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="5644" group-title="Italy" tvg-logo="https://i.imgur.com/GC2wj2K.png",Pimp My Ride – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="5644" group-title="VOD Italy" tvg-logo="https://i.imgur.com/GC2wj2K.png",Pimp My Ride – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="5645" group-title="XYZ" tvg-logo="https://i.imgur.com/jPEcmDx.png",Pink Extra (576p) [ZYZX:TV]
@@ -17665,7 +17666,7 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-chno="5889" group-title="Shop" tvg-logo="https://i.imgur.com/27G7AoH.png",QVC2 (Deutsch) (540p) [SSTC:TV]
 http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="5890" group-title="Italy" tvg-logo="https://i.imgur.com/Ch2qOA4.png",Qwest Jazz&Beyond – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="5890" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Ch2qOA4.png",Qwest Jazz&Beyond – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9397a00007ab029a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="5891" group-title="Classic;Music" tvg-logo="https://i.imgur.com/IRJ1FgR.png",Qwest TV Classical (720p) [Geo-blocked] [AMGI:TV]
@@ -18403,7 +18404,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-
 #EXTINF:-1 tvg-chno="6135" group-title="Lifestyle" tvg-logo="https://i.imgur.com/rPbwJgk.png",Real Life Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6136" group-title="Italy" tvg-logo="https://i.imgur.com/FpwqJYw.png",Real life – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6136" group-title="VOD Italy" tvg-logo="https://i.imgur.com/FpwqJYw.png",Real life – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6137" group-title="XYZ" tvg-logo="",Real Madrid [OTRA:TV]
@@ -18460,7 +18461,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e7
 #EXTINF:-1 tvg-chno="6154" group-title="Entertainment" tvg-logo="https://i.imgur.com/1e4vXVz.png",Reality TV (720p) {STIRR} [GOOG:TV]
 https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8
 
-#EXTINF:-1 tvg-chno="6155" group-title="Italy" tvg-logo="https://i.imgur.com/tPEOeTk.png",Reality – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6155" group-title="VOD Italy" tvg-logo="https://i.imgur.com/tPEOeTk.png",Reality – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6156" group-title="Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png",RealMadrid TV [AMGI:TV]
@@ -18760,7 +18761,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 tvg-chno="6254" group-title="XYZ" tvg-logo="",Renegade Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6255" group-title="Italy" tvg-logo="https://i.imgur.com/Qsd9wuS.png",Renegade – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6255" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Qsd9wuS.png",Renegade – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6256" group-title="XYZ" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png",Rennsteig TV (720p) [ZYZX:DE]
@@ -18967,7 +18968,7 @@ https://ythls.onrender.com/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
 #EXTINF:-1 tvg-chno="6323" group-title="XYZ" tvg-logo="",Ridiculousness Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6324" group-title="Italy" tvg-logo="https://i.imgur.com/Yyj3Dm6.png",Ridiculousness – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6324" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Yyj3Dm6.png",Ridiculousness – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6325" group-title="Comedy" tvg-logo="https://i.imgur.com/hM4yKMn.png",RiffTrax (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
@@ -19000,7 +19001,7 @@ https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="6334" group-title="XYZ" tvg-logo="https://i.imgur.com/ogMqmth.png",Rioni TV (720p) [Not 24/7] [ZYZX:TV]
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 
-#EXTINF:-1 tvg-chno="6335" group-title="Italy" tvg-logo="https://i.imgur.com/LCN66Z1.png",Risate all'italiana [WURL:TV]
+#EXTINF:-1 tvg-chno="6335" group-title="VOD Italy" tvg-logo="https://i.imgur.com/LCN66Z1.png",Risate all'italiana [WURL:TV]
 https://minerva-risateallitaliana-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6336" group-title="XYZ" tvg-logo="",Ritmos Inolvidables [OTRA:TV]
@@ -19081,10 +19082,10 @@ https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="6361" group-title="XYZ" tvg-logo="",Romance (720p) {Rakuten TV} [WURL:TV]
 https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6362" group-title="Movies" tvg-logo="https://i.imgur.com/j6livg0.png",Romance {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="6362" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/j6livg0.png",Romance {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-chno="6363" group-title="Italy" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg",Romance – Rakuten TV [WURL:TV]
+#EXTINF:-1 tvg-chno="6363" group-title="VOD Italy" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg",Romance – Rakuten TV [WURL:TV]
 https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6364" group-title="XYZ" tvg-logo="https://i.imgur.com/ZIfEp5I.png",Romania TV (576p) [ZYZX:TV]
@@ -19798,7 +19799,7 @@ http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1 tvg-chno="6600" group-title="Entertainment" tvg-logo="https://i.imgur.com/CR7DGBv.png",Sana TV (576p) [Not 24/7] [ZYZX:TV]
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6601" group-title="Italy" tvg-logo="https://i.imgur.com/iYyijeJ.png",Sanctuary – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6601" group-title="VOD Italy" tvg-logo="https://i.imgur.com/iYyijeJ.png",Sanctuary – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6602" group-title="News" tvg-logo="https://i.imgur.com/JAJxEj3.png",Sandesh News (1080p) [Not 24/7] [ONRD:TV]
@@ -19963,7 +19964,7 @@ https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/pla
 #EXTINF:-1 tvg-chno="6655" group-title="Comedy" tvg-logo="https://i.imgur.com/jVWPVvJ.png",Scherzi e risate Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6656" group-title="Italy" tvg-logo="https://i.imgur.com/kPxGzPI.png",Scherzi e risate – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6656" group-title="VOD Italy" tvg-logo="https://i.imgur.com/kPxGzPI.png",Scherzi e risate – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6657" group-title="Travel" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",Schladming-Dachstein TV (720p) [ZYZX:DE]
@@ -19978,7 +19979,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 #EXTINF:-1 tvg-chno="6660" group-title="Series" tvg-logo="https://i.imgur.com/nWzU4pq.png",Sci-Fi Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6661" group-title="Italy" tvg-logo="https://i.imgur.com/5B94N8g.png",Sci-Fi – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6661" group-title="VOD Italy" tvg-logo="https://i.imgur.com/5B94N8g.png",Sci-Fi – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6662" group-title="Science" tvg-logo="https://i.imgur.com/uhunRoU.png",Science (240p) {Pluto TV} [PLTO:TV]
@@ -20098,10 +20099,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa40007267
 #EXTINF:-1 tvg-chno="6700" group-title="Series" tvg-logo="https://i.imgur.com/X7jt4K1.png",Serie Teen Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6701" group-title="Italy" tvg-logo="https://i.imgur.com/pBmsfU7.png",Serie Teen – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6701" group-title="VOD Italy" tvg-logo="https://i.imgur.com/pBmsfU7.png",Serie Teen – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="6702" group-title="Italy" tvg-logo="https://i.imgur.com/CHBhRZr.png",Serie – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6702" group-title="VOD Italy" tvg-logo="https://i.imgur.com/CHBhRZr.png",Serie – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6703" group-title="XYZ" tvg-logo="",Series (720p) [Not 24/7] {Pluto TV} [PLTO:TV]
@@ -20164,7 +20165,7 @@ http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a0145
 #EXTINF:-1 tvg-chno="6722" group-title="XYZ" tvg-logo="",Settimo Cielo Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6723" group-title="Italy" tvg-logo="https://i.imgur.com/TC5lo6r.png",Settimo Cielo – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6723" group-title="VOD Italy" tvg-logo="https://i.imgur.com/TC5lo6r.png",Settimo Cielo – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6724" group-title="Music" tvg-logo="https://i.imgur.com/gmpkHWT.png",Sevdah TV (288p) [ZYZX:BA]
@@ -20656,7 +20657,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="6886" group-title="Movies" tvg-logo="https://i.imgur.com/Srxa6cR.png",Sofy TV [AMGI:TV]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6887" group-title="Italy" tvg-logo="https://i.imgur.com/fsJFJeZ.png",Sofy.tv [AMGI:TV]
+#EXTINF:-1 tvg-chno="6887" group-title="VOD Italy" tvg-logo="https://i.imgur.com/fsJFJeZ.png",Sofy.tv [AMGI:TV]
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6888" group-title="XYZ" tvg-logo="https://i.imgur.com/VEbhJRA.png",SOL 2 (1080p) [ZYZX:EU]
@@ -20773,7 +20774,7 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-chno="6925" group-title="XYZ" tvg-logo="",South Park Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6926" group-title="Italy" tvg-logo="https://i.imgur.com/06wIdRV.png",South Park – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6926" group-title="VOD Italy" tvg-logo="https://i.imgur.com/06wIdRV.png",South Park – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6927" group-title="Education" tvg-logo="https://i.imgur.com/E5dmC1U.png",Southeastern Channel (540p) [ZYZX:TV]
@@ -20836,10 +20837,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e16
 #EXTINF:-1 tvg-chno="6946" group-title="Sports" tvg-logo="https://i.imgur.com/4RLZ23C.png",Sport Visión [STLK:TV]
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6947" group-title="Italy" tvg-logo="https://i.imgur.com/o2psAYW.png",Sport – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6947" group-title="VOD Italy" tvg-logo="https://i.imgur.com/o2psAYW.png",Sport – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="6948" group-title="Italy" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U [XDVL:TV]
+#EXTINF:-1 tvg-chno="6948" group-title="VOD Italy" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U [XDVL:TV]
 https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="6949" group-title="Sports" tvg-logo="https://i.imgur.com/AAS6FS3.png",Sportcast Golf 2 (博斯高球2) (720p) [ZYZX:TV]
@@ -20908,7 +20909,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 #EXTINF:-1 tvg-chno="6970" group-title="Movies" tvg-logo="https://i.imgur.com/5bC53Xk.jpg",Spotlight Austria (720p) {Rakuten TV} [WURL:TV]
 https://rakuten-spotlight-5-at.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6971" group-title="Movies" tvg-logo="https://i.imgur.com/AogTmZc.png",Spotlight {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="6971" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/AogTmZc.png",Spotlight {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="6972" group-title="Sports" tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV (1080p) [AKHD:TV]
@@ -20926,7 +20927,7 @@ https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 #EXTINF:-1 tvg-chno="6976" group-title="XYZ" tvg-logo="",Squadra Speciale Cobra 11 Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="6977" group-title="Italy" tvg-logo="https://i.imgur.com/HtDoAF2.png",Squadra Speciale Cobra 11 – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="6977" group-title="VOD Italy" tvg-logo="https://i.imgur.com/HtDoAF2.png",Squadra Speciale Cobra 11 – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="6978" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png",SR Fernsehen (720p) [AKMZ:TV]
@@ -20974,7 +20975,7 @@ https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/59940
 #EXTINF:-1 tvg-chno="6992" group-title="Movies" tvg-logo="https://i.imgur.com/JzwO8IO.png",Staff Picks (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="6993" group-title="Movies" tvg-logo="https://i.imgur.com/DFDHAT8.png",Staff Picks {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="6993" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/DFDHAT8.png",Staff Picks {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="6994" group-title="Comedy" tvg-logo="https://i.imgur.com/cZdUQDe.png",Stand Up (360p) {Pluto TV} [PLTO:TV]
@@ -21256,16 +21257,16 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
 #EXTINF:-1 tvg-chno="7086" group-title="XYZ" tvg-logo="",Super! A casa dei Loud Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e4e19bc0ab00072e049f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7087" group-title="Italy" tvg-logo="https://i.imgur.com/oT6QQNg.png",Super! A casa dei Loud – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7087" group-title="VOD Italy" tvg-logo="https://i.imgur.com/oT6QQNg.png",Super! A casa dei Loud – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8e4e19bc0ab00072e049f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7088" group-title="Kids" tvg-logo="https://i.imgur.com/t4mepW4.png",Super! Brothers and Sisters Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7089" group-title="Italy" tvg-logo="https://i.imgur.com/KSQvVye.png",Super! Brothers and Sisters – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7089" group-title="VOD Italy" tvg-logo="https://i.imgur.com/KSQvVye.png",Super! Brothers and Sisters – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="7090" group-title="Italy" tvg-logo="https://i.imgur.com/j3cadTU.png",Super! Danger & Thunder – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7090" group-title="VOD Italy" tvg-logo="https://i.imgur.com/j3cadTU.png",Super! Danger & Thunder – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8e3bca3766a0007387284/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7091" group-title="XYZ" tvg-logo="",Super! Danger and Thunder Italy (720p) [PLTO:TV]
@@ -21277,28 +21278,28 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070eb
 #EXTINF:-1 tvg-chno="7093" group-title="XYZ" tvg-logo="",Super! Film Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626182c72e4c720007432786/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7094" group-title="Italy" tvg-logo="https://i.imgur.com/tYAI0xu.png",Super! Film – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7094" group-title="VOD Italy" tvg-logo="https://i.imgur.com/tYAI0xu.png",Super! Film – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626182c72e4c720007432786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="7095" group-title="Italy" tvg-logo="https://i.imgur.com/UB7xHRQ.png",Super! Gaming – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7095" group-title="VOD Italy" tvg-logo="https://i.imgur.com/UB7xHRQ.png",Super! Gaming – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626192c51c279b00072c4553/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="7096" group-title="Italy" tvg-logo="https://i.imgur.com/lzgp9GM.png",Super! Girl Power – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7096" group-title="VOD Italy" tvg-logo="https://i.imgur.com/lzgp9GM.png",Super! Girl Power – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4ce50728d200072eebe7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7097" group-title="Kids" tvg-logo="https://i.imgur.com/IWcQfF2.png",Super! iCarly Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7098" group-title="Italy" tvg-logo="https://i.imgur.com/Mhl252U.png",Super! Icarly – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7098" group-title="VOD Italy" tvg-logo="https://i.imgur.com/Mhl252U.png",Super! Icarly – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="7099" group-title="Italy" tvg-logo="https://i.imgur.com/jl7ZvE5.png",Super! Intervallo – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7099" group-title="VOD Italy" tvg-logo="https://i.imgur.com/jl7ZvE5.png",Super! Intervallo – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619544b1bf740007b4154b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7100" group-title="Kids" tvg-logo="https://i.imgur.com/E1Ix83n.png",Super! Mystery Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7101" group-title="Italy" tvg-logo="https://i.imgur.com/6So6078.png",Super! Mystery – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7101" group-title="VOD Italy" tvg-logo="https://i.imgur.com/6So6078.png",Super! Mystery – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7102" group-title="Kids" tvg-logo="https://i.imgur.com/0XvgJKg.png",Super! Papà Italy (720p) [PLTO:TV]
@@ -21307,34 +21308,34 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263124a270700077c9
 #EXTINF:-1 tvg-chno="7103" group-title="Kids" tvg-logo="https://i.imgur.com/2FfREQE.png",Super! Pop Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7104" group-title="Italy" tvg-logo="https://i.imgur.com/jlz31HP.png",Super! POP – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7104" group-title="VOD Italy" tvg-logo="https://i.imgur.com/jlz31HP.png",Super! POP – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="7105" group-title="Italy" tvg-logo="https://i.imgur.com/ALCbqZt.png",Super! Risate – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7105" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ALCbqZt.png",Super! Risate – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb573ba99571000897135b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7106" group-title="XYZ" tvg-logo="",Super! Rugrats Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7107" group-title="Italy" tvg-logo="https://i.imgur.com/QqMQZte.png",Super! Rugrats – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7107" group-title="VOD Italy" tvg-logo="https://i.imgur.com/QqMQZte.png",Super! Rugrats – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7108" group-title="Kids" tvg-logo="https://i.imgur.com/65wxNn4.png",Super! SpongeBob Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7109" group-title="Italy" tvg-logo="https://i.imgur.com/vFiwODM.png",Super! Spongebob – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7109" group-title="VOD Italy" tvg-logo="https://i.imgur.com/vFiwODM.png",Super! Spongebob – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7110" group-title="Kids" tvg-logo="https://i.imgur.com/b4ck4Fg.png",Super! Star Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7111" group-title="Italy" tvg-logo="https://i.imgur.com/YLtqPkF.png",Super! Star – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7111" group-title="VOD Italy" tvg-logo="https://i.imgur.com/YLtqPkF.png",Super! Star – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7112" group-title="XYZ" tvg-logo="",Super! Victorious Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7113" group-title="Italy" tvg-logo="https://i.imgur.com/ArXLm5R.png",Super! Victorious – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7113" group-title="VOD Italy" tvg-logo="https://i.imgur.com/ArXLm5R.png",Super! Victorious – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7114" group-title="Italy" tvg-logo="https://i.imgur.com/zDByOwo.png",Super! Ⓢ [AKMZ:TV]
@@ -21352,7 +21353,7 @@ https://vod1.laki.eu/supersat/video.m3u8
 #EXTINF:-1 tvg-chno="7118" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",SuperSix Lombardia (720p) [STLK:TV]
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7119" group-title="Italy" tvg-logo="https://i.imgur.com/A6vCYsC.png",SuperToons TV [WURL:TV]
+#EXTINF:-1 tvg-chno="7119" group-title="VOD Italy" tvg-logo="https://i.imgur.com/A6vCYsC.png",SuperToons TV [WURL:TV]
 https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7120" group-title="XYZ" tvg-logo="",Supertoons TV [WURL:TV]
@@ -21778,7 +21779,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 #EXTINF:-1 tvg-chno="7260" group-title="XYZ" tvg-logo="",Teen Mom Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7261" group-title="Italy" tvg-logo="https://i.imgur.com/LdiTgeW.png",Teen Mom – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7261" group-title="VOD Italy" tvg-logo="https://i.imgur.com/LdiTgeW.png",Teen Mom – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7262" group-title="Series" tvg-logo="https://i.imgur.com/kgVun5w.png",TEEN SERIES (720p) {Pluto TV} [PLTO:TV]
@@ -21790,7 +21791,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a
 #EXTINF:-1 tvg-chno="7264" group-title="XYZ" tvg-logo="",Teenage Mutant Ninja Turtles Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="7265" group-title="Italy" tvg-logo="https://i.imgur.com/bAnyjH7.png",Teenage Mutant Ninja Turtles – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7265" group-title="VOD Italy" tvg-logo="https://i.imgur.com/bAnyjH7.png",Teenage Mutant Ninja Turtles – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7266" group-title="Kids" tvg-logo="https://i.imgur.com/VTWleRc.png",TeenNick (720p) {Pluto TV} [PLTO:TV]
@@ -22153,7 +22154,7 @@ https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 tvg-chno="7385" group-title="XYZ" tvg-logo="https://i.imgur.com/HNcCX3h.png",Telefe Internacional (720p) [Not 24/7] [PLTO:TV]
 https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
 
-#EXTINF:-1 tvg-chno="7386" group-title="Italy" tvg-logo="https://i.imgur.com/X1YDGcd.png",Telefe Noticias – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="7386" group-title="VOD Italy" tvg-logo="https://i.imgur.com/X1YDGcd.png",Telefe Noticias – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/627d15744208ae000727c67c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="7387" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png",Telefe Rosario (1080p) [Not 24/7] [ONRD:TV]
@@ -22468,7 +22469,7 @@ https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 #EXTINF:-1 tvg-chno="7490" group-title="Kids" tvg-logo="https://i.imgur.com/J9iWjWL.png",Teletubbies (720p) [WURL:TV]
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7491" group-title="Italy" tvg-logo="https://i.imgur.com/tSw1oON.jpeg",Teletubbies [WURL:TV]
+#EXTINF:-1 tvg-chno="7491" group-title="VOD Italy" tvg-logo="https://i.imgur.com/tSw1oON.jpeg",Teletubbies [WURL:TV]
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7492" group-title="Travel" tvg-logo="https://i.imgur.com/Ig4gR93.png",Teletur [HSGT:TV]
@@ -22699,7 +22700,7 @@ https://5ff3d9babae13.streamlock.net/gtryhpwpwe/gtryhpwpwe/playlist.m3u8
 #EXTINF:-1 tvg-chno="7567" group-title="Movies" tvg-logo="https://i.imgur.com/eWtoHDM.png",Terror (240p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="7568" group-title="Movies" tvg-logo="https://i.imgur.com/JLgn5jC.png",Terror {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="7568" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/JLgn5jC.png",Terror {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="7569" group-title="XYZ" tvg-logo="",test Channel 1 (1080p) [Geo-blocked] [TRNT:TV]
@@ -22855,13 +22856,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d77340007
 #EXTINF:-1 tvg-chno="7619" group-title="Movies" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill (576p) [ZYZX:TV]
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-chno="7620" group-title="Italy" tvg-logo="https://i.imgur.com/jJTnBNk.jpeg",Thriller – Rakuten TV [WURL:TV]
+#EXTINF:-1 tvg-chno="7620" group-title="VOD Italy" tvg-logo="https://i.imgur.com/jJTnBNk.jpeg",Thriller – Rakuten TV [WURL:TV]
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7621" group-title="Series" tvg-logo="https://i.imgur.com/ULKvDN7.png",Thrillers (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="7622" group-title="Movies" tvg-logo="https://i.imgur.com/jyiFzG4.png",Thrillers {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="7622" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/jyiFzG4.png",Thrillers {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="7623" group-title="XYZ" tvg-logo="https://i.imgur.com/lWQCrY9.png",Thua Thien Hue TV (404p) [COMM:VN]
@@ -23221,7 +23222,7 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-chno="7741" group-title="Music" tvg-logo="https://i.imgur.com/CUVAi4u.png",Trace Latina [ZYZX:TV]
 http://185.234.217.27:8002/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-chno="7742" group-title="Italy" tvg-logo="https://i.imgur.com/GHbz8wd.png",Trace Latina Ⓖ [AMGI:TV]
+#EXTINF:-1 tvg-chno="7742" group-title="VOD Italy" tvg-logo="https://i.imgur.com/GHbz8wd.png",Trace Latina Ⓖ [AMGI:TV]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7743" group-title="Sports" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sport Stars (1080p) [Geo-blocked] [AMGI:TV]
@@ -23230,7 +23231,7 @@ http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracespor
 #EXTINF:-1 tvg-chno="7744" group-title="Music" tvg-logo="https://i.imgur.com/XJf2ajf.png",Trace Urban [AMGI:TV]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7745" group-title="Italy" tvg-logo="https://i.imgur.com/PAx9qj8.png",Trace Urban Ⓖ [AMGI:TV]
+#EXTINF:-1 tvg-chno="7745" group-title="VOD Italy" tvg-logo="https://i.imgur.com/PAx9qj8.png",Trace Urban Ⓖ [AMGI:TV]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7746" group-title="XYZ" tvg-logo="https://i.imgur.com/ZhPmjkc.png",Tracy Education and Governmental Access Channel (Tracy CA) (720p) [WWZA:TV]
@@ -25936,7 +25937,7 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-chno="8646" group-title="Music" tvg-logo="https://i.imgur.com/D7SwmuB.png",Vevo Latino (1080p) [Not 24/7] [ZYZX:TV]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="8647" group-title="Italy" tvg-logo="https://i.imgur.com/DPqMpQC.png",Vevo Pop [ZYZX:TV]
+#EXTINF:-1 tvg-chno="8647" group-title="VOD Italy" tvg-logo="https://i.imgur.com/DPqMpQC.png",Vevo Pop [ZYZX:TV]
 https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="8648" group-title="Music" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop Europe (1080p) [ZYZX:TV]
@@ -25963,40 +25964,40 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4e
 #EXTINF:-1 tvg-chno="8655" group-title="XYZ" tvg-logo="",VH1+ Canzoni Italiane (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8656" group-title="Italy" tvg-logo="https://i.imgur.com/fpQBKP2.png",VH1+ Canzoni Italiane – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8656" group-title="VOD Italy" tvg-logo="https://i.imgur.com/fpQBKP2.png",VH1+ Canzoni Italiane – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8657" group-title="XYZ" tvg-logo="",VH1+ Christmas Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e137865c590007ecae3c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8658" group-title="Italy" tvg-logo="https://i.imgur.com/03Oo6J8.png",VH1+ Euro Hits – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8658" group-title="VOD Italy" tvg-logo="https://i.imgur.com/03Oo6J8.png",VH1+ Euro Hits – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5857a995710008971705/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8659" group-title="Music" tvg-logo="https://i.imgur.com/KsiOX0r.png",VH1+ Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8660" group-title="Italy" tvg-logo="https://i.imgur.com/7OTp1DX.png",VH1+ Love Music – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8660" group-title="VOD Italy" tvg-logo="https://i.imgur.com/7OTp1DX.png",VH1+ Love Music – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4431b7fca900075039e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8661" group-title="XYZ" tvg-logo="",VH1+ Music Legends Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8662" group-title="Italy" tvg-logo="https://i.imgur.com/kJ1MDVi.png",VH1+ Music Legends – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8662" group-title="VOD Italy" tvg-logo="https://i.imgur.com/kJ1MDVi.png",VH1+ Music Legends – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8663" group-title="XYZ" tvg-logo="",VH1+ Rock Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&advertisingId={PSID}&appVersion=unknown&appVersion=unknown&deviceDNT={TARGETOPT}&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceId={PSID}&deviceLat=0&deviceLat=0&deviceLon=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&deviceVersion=unknown&embedPartner=samsung-tvplus&embedPartner=samsung-tvplus&profileFloor=&profileFloor=&profileLimit=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&samsung_app_name={APP_NAME}&us_privacy=1YNY&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8664" group-title="Italy" tvg-logo="https://i.imgur.com/P1OCuFl.png",VH1+ Rock! – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8664" group-title="VOD Italy" tvg-logo="https://i.imgur.com/P1OCuFl.png",VH1+ Rock! – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-chno="8665" group-title="Italy" tvg-logo="https://i.imgur.com/kmduUJ4.png",VH1+ – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8665" group-title="VOD Italy" tvg-logo="https://i.imgur.com/kmduUJ4.png",VH1+ – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8666" group-title="XYZ" tvg-logo="",Viaggi Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8667" group-title="Italy" tvg-logo="https://i.imgur.com/3GJg0uy.png",Viaggi – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8667" group-title="VOD Italy" tvg-logo="https://i.imgur.com/3GJg0uy.png",Viaggi – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8668" group-title="XYZ" tvg-logo="https://i.imgur.com/LxB7ZIu.png",Viajar TV (720p) [ZYZX:TV]
@@ -26683,7 +26684,7 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-chno="8895" group-title="XYZ" tvg-logo="",Western Italy (720p) {Pluto TV} [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8896" group-title="Italy" tvg-logo="https://i.imgur.com/6vmgQBl.png",Western – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8896" group-title="VOD Italy" tvg-logo="https://i.imgur.com/6vmgQBl.png",Western – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8897" group-title="Movies" tvg-logo="https://i.imgur.com/8Tw6EL2.png",Westerns (360p) {STIRR} [GOOG:TV]
@@ -26692,7 +26693,7 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 tvg-chno="8898" group-title="Movies" tvg-logo="https://i.imgur.com/biepi4A.png",Westerns (720p) {Pluto TV} [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
 
-#EXTINF:-1 tvg-chno="8899" group-title="Movies" tvg-logo="https://i.imgur.com/79R7m0b.png",Westerns {Pluto TV} [PLTO:TV]
+#EXTINF:-1 tvg-chno="8899" group-title="VOD Movies (EN)" tvg-logo="https://i.imgur.com/79R7m0b.png",Westerns {Pluto TV} [PLTO:TV]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="8900" group-title="XYZ" tvg-logo="https://i.imgur.com/wV1QZTK.png",Westlake Village WVTV Channel 10 (Westlake Village CA) (360p) [WWZA:TV]
@@ -26845,7 +26846,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-chno="8949" group-title="Sports" tvg-logo="https://i.imgur.com/e3yJ9QN.png",World Poker Tour Italy (720p) [PLTO:TV]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno="8950" group-title="Italy" tvg-logo="https://i.imgur.com/AF1ON8u.png",World poker tour – Pluto TV [PLTO:TV]
+#EXTINF:-1 tvg-chno="8950" group-title="VOD Italy" tvg-logo="https://i.imgur.com/AF1ON8u.png",World poker tour – Pluto TV [PLTO:TV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-chno="8951" group-title="UK" tvg-logo="https://i.imgur.com/RYgSSHl.png",World Service {BBC} [COOO:UK]
