@@ -10,5 +10,6 @@ IPTV M3U channel list containing nearly 10,000 channels
 * "TV" is used as the 2 letter country code if the country is not determinable from the server URL
 * Channels are far from being fully tested - but there are a lot of excellent channels within this list
 * List accessible via: [https://cdgamlin.github.io/IPTV.m3u](https://cdgamlin.github.io/IPTV.m3u)
+* Source code accessible via [My Google Drive](https://colab.research.google.com/drive/1tVaR-fExszrBF_4SSelNrl8lQr-R8rwd#scrollTo=qtIIhjyKU3-k)
 
 Email: cdgamlin (ąţ) gmail (ɗδţ) com
