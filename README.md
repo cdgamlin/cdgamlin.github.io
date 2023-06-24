@@ -13,7 +13,7 @@ Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channel
 * "CC" are 2 letter codes representing server country codes (eg: "UK")
 * "TV" is used as the 2 letter country code if the country is not determinable from the server URL
 * Some other alternations on channel names have been included to distinguish channels and include other useful info
-* Channels are far from being fully tested - and some links are broken - but there are a lot of excellent channels within this list
+* Channels are far from being fully tested, and some links are broken - but there are a lot of excellent channels within this list
 * 10,000 channels come from two BIG M3U playlists
 * Other channels come from playlists including: Pluto, Samsung, Plex, Stirr, and country lists from [this site](https://d.tousecurity.com)
 * The only countries included from the country list are: AU, CA, NZ, UK, US
