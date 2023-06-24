@@ -23,7 +23,7 @@ https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3li
 #EXTINF:-1 tvg-chno="8" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/512px-Inter_TV_-_Logo_2017.svg.png",0_noewhew2/format/applehttp/protocol/https/a.m3u8 [ZYZX:TV]
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8 title=
 
-#EXTINF:-1 tvg-chno="9" group-title="East European" tvg-logo="https://i.imgur.com/9z2LnBg.png",1 Odessa Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="9" group-title="East European" tvg-logo="https://i.imgur.com/9z2LnBg.png",1 Odessa Ⓢ [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" group-title="XYZ" tvg-logo="https://i.imgur.com/eJXfMh0.png",1+1 (1080p) [ONRD:TV]
@@ -404,7 +404,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293
 #EXTINF:-1 tvg-chno="135" group-title="XYZ" tvg-logo="https://i.imgur.com/tupATym.png",a.tv (1080p) [Not 24/7] [PLCT:DE]
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="136" group-title="East European" tvg-logo="https://i.imgur.com/0DUi5fO.jpg",A1 Odessa [OD--:UA]
+#EXTINF:-1 tvg-chno="136" group-title="East European" tvg-logo="https://i.imgur.com/0DUi5fO.jpg",A1 Odessa [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="137" group-title="XYZ" tvg-logo="https://i.imgur.com/JZ1oTM2.png",A1 TV (1080p) [Not 24/7] [ZYZX:NL]
@@ -2624,10 +2624,10 @@ https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/pla
 #EXTINF:-1 tvg-chno="875" group-title="XYZ" tvg-logo="https://i.imgur.com/oxkkWH5.png",Balle Balle (720p) [ZYZX:TV]
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 tvg-chno="876" group-title="Travel" tvg-logo="https://i.imgur.com/ZHuJxeg.png",BamBarBia TV (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="876" group-title="Travel" tvg-logo="https://i.imgur.com/ZHuJxeg.png",BamBarBia TV (720p) [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="877" group-title="East European" tvg-logo="https://i.imgur.com/LIk85IA.png",BamBarBia TV [OD--:UA]
+#EXTINF:-1 tvg-chno="877" group-title="East European" tvg-logo="https://i.imgur.com/LIk85IA.png",BamBarBia TV [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="878" group-title="XYZ" tvg-logo="https://i.imgur.com/yVsocid.png",Banat TV (720p) [ZYZX:RO]
@@ -4940,7 +4940,7 @@ http://183.89.246.119:8881/play/a07v/index.m3u8
 #EXTINF:-1 tvg-chno="1647" group-title="XYZ" tvg-logo="https://i.imgur.com/bazepkM.png",Channel 7 Belize [ZYZX:BZ]
 https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1648" group-title="XYZ" tvg-logo="https://i.imgur.com/9Ll0BIo.png",Channel 7 Ukraine (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="1648" group-title="XYZ" tvg-logo="https://i.imgur.com/9Ll0BIo.png",Channel 7 Ukraine (720p) [ODSA:UA]
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1649" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png",Channel 8 (1080p) [Not 24/7] [ZYZX:TH]
@@ -7205,10 +7205,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a675
 #EXTINF:-1 tvg-chno="2402" group-title="XYZ" tvg-logo="https://i.imgur.com/Zh60l1x.png",Dukh Nivaran (720p) [Not 24/7] [ZYZX:TV]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 
-#EXTINF:-1 tvg-chno="2403" group-title="East European" tvg-logo="https://i.imgur.com/KlPqxlo.png",Duma TV [OD--:UA]
+#EXTINF:-1 tvg-chno="2403" group-title="East European" tvg-logo="https://i.imgur.com/KlPqxlo.png",Duma TV [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2404" group-title="XYZ" tvg-logo="https://i.imgur.com/cSTLg5w.png",Dumskaya TV (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="2404" group-title="XYZ" tvg-logo="https://i.imgur.com/cSTLg5w.png",Dumskaya TV (720p) [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2405" group-title="East European" tvg-logo="https://i.imgur.com/b4RXacY.png",Duna TV [ZYZX:TV]
@@ -9446,7 +9446,7 @@ https://ythls.onrender.com/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8
 #EXTINF:-1 tvg-chno="3149" group-title="XYZ" tvg-logo="https://i.imgur.com/LHChpid.png",GTV (360p) [Not 24/7] [ZYZX:TV]
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
 
-#EXTINF:-1 tvg-chno="3150" group-title="East European" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg",GTV [OD--:UA]
+#EXTINF:-1 tvg-chno="3150" group-title="East European" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg",GTV [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3151" group-title="Series" tvg-logo="https://i.imgur.com/SjpHkBm.png",GTV Drama (八大戏剧台) (720p) [ZYZX:TV]
@@ -10826,7 +10826,7 @@ http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-chno="3609" group-title="XYZ" tvg-logo="https://i.imgur.com/mpMjj7o.png",Izmail TV (384p) [ZYZX:TV]
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3610" group-title="East European" tvg-logo="https://i.imgur.com/mpMjj7o.png",Izmail TV Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="3610" group-title="East European" tvg-logo="https://i.imgur.com/mpMjj7o.png",Izmail TV Ⓢ [ODSA:UA]
 https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3611" group-title="XYZ" tvg-logo="https://i.imgur.com/my7aqLc.png",Izzah TV (480p) [ZYZX:TV]
@@ -11759,7 +11759,7 @@ https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-chno="3920" group-title="Music" tvg-logo="https://i.imgur.com/GeEDOPN.png",KRAL TV (720p) [ZYZX:TV]
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3921" group-title="East European" tvg-logo="https://i.imgur.com/NXqO1Qa.png",Kratu Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="3921" group-title="East European" tvg-logo="https://i.imgur.com/NXqO1Qa.png",Kratu Ⓢ [ODSA:UA]
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3922" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/512px-Estrella_TV_2020_Logo.svg.png",KRCA-TV Estrella Los Angeles (720p) [UPLK:TV]
@@ -15635,7 +15635,7 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-chno="5212" group-title="XYZ" tvg-logo="https://i.imgur.com/0qe2R8b.png",Olelo Community Media Channel 55 (720p) [WWZA:TV]
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_013/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5213" group-title="East European" tvg-logo="https://i.imgur.com/khlZ532.png",Olvia Sat Odessa [OD--:UA]
+#EXTINF:-1 tvg-chno="5213" group-title="East European" tvg-logo="https://i.imgur.com/khlZ532.png",Olvia Sat Odessa [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5214" group-title="XYZ" tvg-logo="https://i.imgur.com/b38wNPK.png",Oman Althakafia (1080p) [ZYZX:TV]
@@ -16853,10 +16853,10 @@ https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8
 #EXTINF:-1 tvg-chno="5618" group-title="East European" tvg-logo="https://i.imgur.com/rIaWxpn.png",Perviy Delovoy [ZYZX:UA]
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="5619" group-title="East European" tvg-logo="https://i.imgur.com/Em3J7XO.jpg",Perviy Gorodskoy Krivoy [OD--:UA]
+#EXTINF:-1 tvg-chno="5619" group-title="East European" tvg-logo="https://i.imgur.com/Em3J7XO.jpg",Perviy Gorodskoy Krivoy [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5620" group-title="XYZ" tvg-logo="https://i.imgur.com/xYJQiIv.png",Pervyy gorodskoy Krivoy Rog (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="5620" group-title="XYZ" tvg-logo="https://i.imgur.com/xYJQiIv.png",Pervyy gorodskoy Krivoy Rog (720p) [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5621" group-title="East European" tvg-logo="https://i.imgur.com/7tFiG6S.jpg",Pervyy Muzykal'nyy BY Ⓢ [ZYZX:BY]
@@ -20468,10 +20468,10 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg-chno="6823" group-title="XYZ" tvg-logo="https://i.imgur.com/RxhABeK.png",SIZART Canal 24 (1080p) [STLK:TV]
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6824" group-title="XYZ" tvg-logo="https://i.imgur.com/abJEx2a.png",SK 1 (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="6824" group-title="XYZ" tvg-logo="https://i.imgur.com/abJEx2a.png",SK 1 (720p) [ODSA:UA]
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6825" group-title="East European" tvg-logo="https://i.imgur.com/wr0CN1l.png",SK 1 Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="6825" group-title="East European" tvg-logo="https://i.imgur.com/wr0CN1l.png",SK 1 Ⓢ [ODSA:UA]
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6826" group-title="XYZ" tvg-logo="https://i.imgur.com/mrKRFnf.png",Skai (720p) [:TV]
@@ -22937,10 +22937,10 @@ http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="7646" group-title="XYZ" tvg-logo="https://i.imgur.com/Xw6uc6W.png",Tirol TV (720p) [Not 24/7] [ZYZX:AT]
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
-#EXTINF:-1 tvg-chno="7647" group-title="XYZ" tvg-logo="https://i.imgur.com/OP8gFSB.png",TIS TV (480p) [OD--:UA]
+#EXTINF:-1 tvg-chno="7647" group-title="XYZ" tvg-logo="https://i.imgur.com/OP8gFSB.png",TIS TV (480p) [ODSA:UA]
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7648" group-title="East European" tvg-logo="https://i.imgur.com/aC01GvC.png",TIS TV Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="7648" group-title="East European" tvg-logo="https://i.imgur.com/aC01GvC.png",TIS TV Ⓢ [ODSA:UA]
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7649" group-title="XYZ" tvg-logo="https://www.tiszatv.hu/style/tiszatv_logo.png",Tisza TV (576p) [Not 24/7] [ZYZX:HU]
@@ -23291,7 +23291,7 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-chno="7764" group-title="XYZ" tvg-logo="https://i.imgur.com/Xcw3TRB.png",Trentino TV (720p) [Not 24/7] [STLK:TV]
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7765" group-title="East European" tvg-logo="https://i.imgur.com/nwRBxTR.png",Treti Cifrovoj Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="7765" group-title="East European" tvg-logo="https://i.imgur.com/nwRBxTR.png",Treti Cifrovoj Ⓢ [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7766" group-title="XYZ" tvg-logo="https://i.imgur.com/zG2P1WZ.png",Tribe TV (720p) [ZYZX:IN]
@@ -23321,7 +23321,7 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-chno="7774" group-title="XYZ" tvg-logo="",TRK 555 (720p) [ZYZX:TV]
 http://trk555.tv:8888/live
 
-#EXTINF:-1 tvg-chno="7775" group-title="XYZ" tvg-logo="https://i.imgur.com/CCxEt0w.png",TRK Krug (576p) [OD--:UA]
+#EXTINF:-1 tvg-chno="7775" group-title="XYZ" tvg-logo="https://i.imgur.com/CCxEt0w.png",TRK Krug (576p) [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7776" group-title="West European" tvg-logo="https://i.imgur.com/qAagkJT.png",TRL Tele Radio Leo [STLK:TV]
@@ -27128,7 +27128,7 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-chno="9043" group-title="XYZ" tvg-logo="https://i2.paste.pics/2f5a5c317d9813f9d83b71e9b1a1c9a9.png",Yungay Online [MSCH:TV]
 https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9044" group-title="East European" tvg-logo="https://i.imgur.com/8gSP6aH.png",Yuzhnaya Volna [OD--:UA]
+#EXTINF:-1 tvg-chno="9044" group-title="East European" tvg-logo="https://i.imgur.com/8gSP6aH.png",Yuzhnaya Volna [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="9045" group-title="West European" tvg-logo="https://i.imgur.com/yP5AvDo.png",Yvii Tv [ZYZX:TV]
@@ -27179,7 +27179,7 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-chno="9060" group-title="West European" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png",ZDFneo Ⓖ [AKMZ:TV]
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-chno="9061" group-title="East European" tvg-logo="https://i.imgur.com/VqDD7OE.png",Zdorovood TV Odessa Ⓢ [OD--:UA]
+#EXTINF:-1 tvg-chno="9061" group-title="East European" tvg-logo="https://i.imgur.com/VqDD7OE.png",Zdorovood TV Odessa Ⓢ [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="9062" group-title="XYZ" tvg-logo="",Zed TV [ZYZX:TV]
@@ -28109,7 +28109,7 @@ https://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="9370" group-title="XYZ" tvg-logo="",Телеканал 86 (Сургут) (1080p) [Not 24/7] [ZYZX:RU]
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-chno="9371" group-title="News" tvg-logo="https://i.ibb.co/jw5Kj5C/logotip.png",Телеканал Репортер Одесса (720p) [OD--:UA]
+#EXTINF:-1 tvg-chno="9371" group-title="News" tvg-logo="https://i.ibb.co/jw5Kj5C/logotip.png",Телеканал Репортер Одесса (720p) [ODSA:UA]
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="9372" group-title="XYZ" tvg-logo="https://i.imgur.com/1zbcZ3p.png",Телплюс ТВ (Астрахань) (360p) [Not 24/7] [ZYZX:RU]
