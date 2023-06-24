@@ -5,7 +5,7 @@
 Parses online M3U playlists and generates a custom IPTV.M3U playlist
 
 Generates IPTV M3U channel list containing nearly 10,000 channels
-* Scraped and compiled with Python3 from some large M3U files found elsewhere on the net
+* Scraped and compiled with Python3 from some large M3U files found elsewhere on the net (see source code)
 * Compilation ensures that any URL duplicated across M3U files is occurs only once in the final M3U
 * [DOMN:CC] added as suffix to all channel names
 * "DOMN" are 4 letter codes representing which server group the channel is coming from (eg: "PLTO")
