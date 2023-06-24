@@ -1,1 +1,35 @@
+# List of websites to get M3U playlists from
+# (If you are going to add, only add to the bottom of the list)
 
+# ~9100 channels (Mixed)
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+
+# ~1200 channels (Mixed)
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+# ~2000 channels (Pluto)
+https://i.mjh.nz/PlutoTV/all.m3u8
+
+# ~1300 channels (Samsung)
+https://i.mjh.nz/SamsungTVPlus/all.m3u8
+
+# ~400 channels (Plex)
+https://i.mjh.nz/Plex/all.m3u8
+
+# ~50 channels (Stirr)
+https://i.mjh.nz/Stirr/all.m3u8
+
+# ~150 channels (Australia)
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16206
+
+# ~500 channels (Canada)
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16221
+
+# ~10 channels (New Zealand) 
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16278
+
+# ~1700 channels (UK)
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16294
+
+# ~2800 channels (US)
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16299
