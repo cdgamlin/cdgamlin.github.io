@@ -11372,7 +11372,7 @@ https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 #EXTINF:-1 tvg-chno="3791" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC 9 Orlando FL (WFTV) (720p) [CFNT:TV]
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-chno="3792" group-title="Oceanic" tvg-logo="https://i.imgur.com/5CVl5EF.png",ABC [MHNZ:NZ]
+#EXTINF:-1 tvg-chno="3792" group-title="Australasian" tvg-logo="https://i.imgur.com/5CVl5EF.png",ABC [MHNZ:NZ]
 https://c.mjh.nz/101002210221/
 
 #EXTINF:-1 tvg-chno="3793" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",ABC Kids (720p) [Not 24/7] [MHNZ:NZ]
@@ -11381,7 +11381,7 @@ https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-chno="3794" group-title="XYZ" tvg-logo="https://i.imgur.com/6NyFLAm.png",ABC ME (720p) [MHNZ:NZ]
 https://c.mjh.nz/101002210224
 
-#EXTINF:-1 tvg-chno="3795" group-title="Oceanic" tvg-logo="https://i.imgur.com/gBh54wY.png",ABC Me [MHNZ:NZ]
+#EXTINF:-1 tvg-chno="3795" group-title="Australasian" tvg-logo="https://i.imgur.com/gBh54wY.png",ABC Me [MHNZ:NZ]
 https://c.mjh.nz/101002210224/
 
 #EXTINF:-1 tvg-chno="3796" group-title="News" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News (720p) [AKMZ:TV]
@@ -13232,517 +13232,517 @@ https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4411" group-title="XYZ" tvg-logo="https://i.imgur.com/kva4O3T.png",Atyraý (720p) [KZTK:KZ]
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 
-#EXTINF:-1 tvg-chno="4412" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4412" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189636.ts
 
-#EXTINF:-1 tvg-chno="4413" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4413" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189637.ts
 
-#EXTINF:-1 tvg-chno="4414" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4414" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189638.ts
 
-#EXTINF:-1 tvg-chno="4415" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4415" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189639.ts
 
-#EXTINF:-1 tvg-chno="4416" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4416" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189640.ts
 
-#EXTINF:-1 tvg-chno="4417" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4417" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189641.ts
 
-#EXTINF:-1 tvg-chno="4418" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4418" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189642.ts
 
-#EXTINF:-1 tvg-chno="4419" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4419" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png",AU 7flix Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189643.ts
 
-#EXTINF:-1 tvg-chno="4420" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png",AU 7mate Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4420" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png",AU 7mate Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189644.ts
 
-#EXTINF:-1 tvg-chno="4421" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png",AU 7mate Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4421" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png",AU 7mate Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189645.ts
 
-#EXTINF:-1 tvg-chno="4422" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4422" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189646.ts
 
-#EXTINF:-1 tvg-chno="4423" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4423" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189647.ts
 
-#EXTINF:-1 tvg-chno="4424" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4424" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189648.ts
 
-#EXTINF:-1 tvg-chno="4425" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4425" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189649.ts
 
-#EXTINF:-1 tvg-chno="4426" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4426" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189651.ts
 
-#EXTINF:-1 tvg-chno="4427" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4427" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/f97f49e9d8b1c8cfffb7279e8b686a0b.png",AU 7mate Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189652.ts
 
-#EXTINF:-1 tvg-chno="4428" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4428" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189653.ts
 
-#EXTINF:-1 tvg-chno="4429" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4429" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189654.ts
 
-#EXTINF:-1 tvg-chno="4430" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4430" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189655.ts
 
-#EXTINF:-1 tvg-chno="4431" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png",AU 7TWO Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4431" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png",AU 7TWO Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189656.ts
 
-#EXTINF:-1 tvg-chno="4432" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4432" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189657.ts
 
-#EXTINF:-1 tvg-chno="4433" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4433" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189659.ts
 
-#EXTINF:-1 tvg-chno="4434" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4434" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/b663537a604ec25433c00da7ca05854c.png",AU 7TWO Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189660.ts
 
-#EXTINF:-1 tvg-chno="4435" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png",AU 7Two Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4435" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png",AU 7Two Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189661.ts
 
-#EXTINF:-1 tvg-chno="4436" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4436" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189663.ts
 
-#EXTINF:-1 tvg-chno="4437" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4437" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189664.ts
 
-#EXTINF:-1 tvg-chno="4438" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4438" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189666.ts
 
-#EXTINF:-1 tvg-chno="4439" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4439" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189667.ts
 
-#EXTINF:-1 tvg-chno="4440" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4440" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189668.ts
 
-#EXTINF:-1 tvg-chno="4441" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4441" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189670.ts
 
-#EXTINF:-1 tvg-chno="4442" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png",AU 9Gem Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4442" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png",AU 9Gem Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189671.ts
 
-#EXTINF:-1 tvg-chno="4443" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4443" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/8c984846d386981e0a9959fef04f5367.png",AU 9Gem Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189674.ts
 
-#EXTINF:-1 tvg-chno="4444" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4444" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189675.ts
 
-#EXTINF:-1 tvg-chno="4445" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4445" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189676.ts
 
-#EXTINF:-1 tvg-chno="4446" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4446" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189677.ts
 
-#EXTINF:-1 tvg-chno="4447" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4447" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go! Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189678.ts
 
-#EXTINF:-1 tvg-chno="4448" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4448" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189679.ts
 
-#EXTINF:-1 tvg-chno="4449" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4449" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189681.ts
 
-#EXTINF:-1 tvg-chno="4450" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4450" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189682.ts
 
-#EXTINF:-1 tvg-chno="4451" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Hobart (D) [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4451" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/85c624778caa5d030d189250caeb697c.png",AU 9Go_ Hobart (D) [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189683.ts
 
-#EXTINF:-1 tvg-chno="4452" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4452" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189687.ts
 
-#EXTINF:-1 tvg-chno="4453" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4453" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189688.ts
 
-#EXTINF:-1 tvg-chno="4454" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4454" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189690.ts
 
-#EXTINF:-1 tvg-chno="4455" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4455" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189691.ts
 
-#EXTINF:-1 tvg-chno="4456" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4456" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189692.ts
 
-#EXTINF:-1 tvg-chno="4457" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png",AU 9Life Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4457" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png",AU 9Life Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189693.ts
 
-#EXTINF:-1 tvg-chno="4458" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4458" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/c451803d12687696b8b8adc6144ae2a8.png",AU 9Life Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189695.ts
 
-#EXTINF:-1 tvg-chno="4459" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png",AU 9Life Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4459" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png",AU 9Life Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189697.ts
 
-#EXTINF:-1 tvg-chno="4460" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4460" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189700.ts
 
-#EXTINF:-1 tvg-chno="4461" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png",AU 9Rush Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4461" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png",AU 9Rush Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189701.ts
 
-#EXTINF:-1 tvg-chno="4462" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4462" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189702.ts
 
-#EXTINF:-1 tvg-chno="4463" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4463" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189703.ts
 
-#EXTINF:-1 tvg-chno="4464" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4464" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189704.ts
 
-#EXTINF:-1 tvg-chno="4465" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4465" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/e1a51afa3f78fbbc9aaf6794f8c8e91e.png",AU 9Rush Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189705.ts
 
-#EXTINF:-1 tvg-chno="4466" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4466" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189707.ts
 
-#EXTINF:-1 tvg-chno="4467" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4467" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189708.ts
 
-#EXTINF:-1 tvg-chno="4468" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4468" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189710.ts
 
-#EXTINF:-1 tvg-chno="4469" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4469" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189731.ts
 
-#EXTINF:-1 tvg-chno="4470" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4470" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189711.ts
 
-#EXTINF:-1 tvg-chno="4471" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4471" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189733.ts
 
-#EXTINF:-1 tvg-chno="4472" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4472" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189734.ts
 
-#EXTINF:-1 tvg-chno="4473" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Comedy Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4473" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Comedy Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189735.ts
 
-#EXTINF:-1 tvg-chno="4474" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4474" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189736.ts
 
-#EXTINF:-1 tvg-chno="4475" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4475" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189713.ts
 
-#EXTINF:-1 tvg-chno="4476" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4476" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/2f27d22f19c1e95debe09e302d42a2ba.png",AU ABC Comedy Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189714.ts
 
-#EXTINF:-1 tvg-chno="4477" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4477" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189715.ts
 
-#EXTINF:-1 tvg-chno="4478" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4478" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/d2c6f93dd4d249a8b3f3f3615f641363.png",AU ABC Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189716.ts
 
-#EXTINF:-1 tvg-chno="4479" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/a45e4ac2592d18803828aa0d83bec8a0.png",AU ABC KIDS Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4479" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/a45e4ac2592d18803828aa0d83bec8a0.png",AU ABC KIDS Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189739.ts
 
-#EXTINF:-1 tvg-chno="4480" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4480" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189740.ts
 
-#EXTINF:-1 tvg-chno="4481" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4481" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189741.ts
 
-#EXTINF:-1 tvg-chno="4482" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4482" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189742.ts
 
-#EXTINF:-1 tvg-chno="4483" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4483" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189743.ts
 
-#EXTINF:-1 tvg-chno="4484" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4484" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/80aa13471a2dab4daf4e41d2247b78af.png",AU ABC KIDS Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189744.ts
 
-#EXTINF:-1 tvg-chno="4485" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/b861c12802fa8a5a02234ca81e7f0135.png",AU ABC Kids National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4485" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/b861c12802fa8a5a02234ca81e7f0135.png",AU ABC Kids National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189717.ts
 
-#EXTINF:-1 tvg-chno="4486" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/5e919dc2de4eaf01c8f0c8610e63fdb6.png",AU ABC Kids Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4486" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/5e919dc2de4eaf01c8f0c8610e63fdb6.png",AU ABC Kids Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189718.ts
 
-#EXTINF:-1 tvg-chno="4487" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4487" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png",AU ABC KIDS Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189746.ts
 
-#EXTINF:-1 tvg-chno="4488" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4488" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189747.ts
 
-#EXTINF:-1 tvg-chno="4489" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4489" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189748.ts
 
-#EXTINF:-1 tvg-chno="4490" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4490" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189749.ts
 
-#EXTINF:-1 tvg-chno="4491" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4491" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189750.ts
 
-#EXTINF:-1 tvg-chno="4492" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4492" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189751.ts
 
-#EXTINF:-1 tvg-chno="4493" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/4bcacec5f16df1a512656d768a499562.png",AU ABC ME Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4493" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/4bcacec5f16df1a512656d768a499562.png",AU ABC ME Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189719.ts
 
-#EXTINF:-1 tvg-chno="4494" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/65ef6c151a8f58edd1e352b0d254e65b.png",AU ABC ME National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4494" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/65ef6c151a8f58edd1e352b0d254e65b.png",AU ABC ME National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189720.ts
 
-#EXTINF:-1 tvg-chno="4495" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4495" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/81f0d8d82c0dc2b045809d86a1a0de77.png",AU ABC ME Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189753.ts
 
-#EXTINF:-1 tvg-chno="4496" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png",AU ABC ME Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4496" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png",AU ABC ME Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189754.ts
 
-#EXTINF:-1 tvg-chno="4497" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/5d4f9f25f36cb23ddb15519e072571f3.png",AU ABC Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4497" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/5d4f9f25f36cb23ddb15519e072571f3.png",AU ABC Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189722.ts
 
-#EXTINF:-1 tvg-chno="4498" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/0802edb3cf893f115dace09c388e87ea.png",AU ABC NEWS Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4498" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/0802edb3cf893f115dace09c388e87ea.png",AU ABC NEWS Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189755.ts
 
-#EXTINF:-1 tvg-chno="4499" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/0802edb3cf893f115dace09c388e87ea.png",AU ABC NEWS Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4499" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/0802edb3cf893f115dace09c388e87ea.png",AU ABC NEWS Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189756.ts
 
-#EXTINF:-1 tvg-chno="4500" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4500" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189757.ts
 
-#EXTINF:-1 tvg-chno="4501" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4501" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189758.ts
 
-#EXTINF:-1 tvg-chno="4502" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png",AU ABC NEWS Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4502" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png",AU ABC NEWS Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189759.ts
 
-#EXTINF:-1 tvg-chno="4503" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4503" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189760.ts
 
-#EXTINF:-1 tvg-chno="4504" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4504" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189761.ts
 
-#EXTINF:-1 tvg-chno="4505" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4505" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/9f17700349a75782a7fb93c79ff97670.png",AU ABC NEWS Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189762.ts
 
-#EXTINF:-1 tvg-chno="4506" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/4187537841db17d738fe8bf7e7087e46.png",AU ABC Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4506" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/4187537841db17d738fe8bf7e7087e46.png",AU ABC Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189728.ts
 
-#EXTINF:-1 tvg-chno="4507" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/581f58669389e9e12b08db1380fdf7a9.png",AU Al Jazeera [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4507" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/581f58669389e9e12b08db1380fdf7a9.png",AU Al Jazeera [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189766.ts
 
-#EXTINF:-1 tvg-chno="4508" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/0847fae5d577bf352f8f991b42943925.png",AU Al_Jazeera Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4508" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/0847fae5d577bf352f8f991b42943925.png",AU Al_Jazeera Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189767.ts
 
-#EXTINF:-1 tvg-chno="4509" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/d106b289475c7fe9b450d45436c01ccf.png",AU beIN Sports 1 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4509" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/d106b289475c7fe9b450d45436c01ccf.png",AU beIN Sports 1 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189769.ts
 
-#EXTINF:-1 tvg-chno="4510" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/742d0f059425b17818a419556da565cb.png",AU beIN Sports 2 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4510" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/742d0f059425b17818a419556da565cb.png",AU beIN Sports 2 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189770.ts
 
-#EXTINF:-1 tvg-chno="4511" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/26701d385f54af60b8bd9990584b42ab.png",AU beIN Sports 3 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4511" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/26701d385f54af60b8bd9990584b42ab.png",AU beIN Sports 3 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189771.ts
 
-#EXTINF:-1 tvg-chno="4512" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel 9 Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4512" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel 9 Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189782.ts
 
-#EXTINF:-1 tvg-chno="4513" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/76398e9895728b363b0454b617f59702.png",AU Channel 9 Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4513" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/76398e9895728b363b0454b617f59702.png",AU Channel 9 Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/1861579.ts
 
-#EXTINF:-1 tvg-chno="4514" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4514" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189777.ts
 
-#EXTINF:-1 tvg-chno="4515" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4515" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189778.ts
 
-#EXTINF:-1 tvg-chno="4516" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4516" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189779.ts
 
-#EXTINF:-1 tvg-chno="4517" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4517" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189780.ts
 
-#EXTINF:-1 tvg-chno="4518" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png",AU Channel_9 Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4518" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png",AU Channel_9 Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189781.ts
 
-#EXTINF:-1 tvg-chno="4519" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4519" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189783.ts
 
-#EXTINF:-1 tvg-chno="4520" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4520" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/68913b122a69c23fbb8ad103dd52a9c1.png",AU Channel_9 Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189784.ts
 
-#EXTINF:-1 tvg-chno="4521" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/4d411b982364de1ae878121a0af44553.png",AU ESPN 1 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4521" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/4d411b982364de1ae878121a0af44553.png",AU ESPN 1 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189785.ts
 
-#EXTINF:-1 tvg-chno="4522" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/f16bd46296b2fbc845cd44eb12be287d.png",AU ESPN 2 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4522" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/f16bd46296b2fbc845cd44eb12be287d.png",AU ESPN 2 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189786.ts
 
-#EXTINF:-1 tvg-chno="4523" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/51e8ce59d129facf0d7b77461755dbb7.png",AU Fox Sports 502 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4523" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/51e8ce59d129facf0d7b77461755dbb7.png",AU Fox Sports 502 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189788.ts
 
-#EXTINF:-1 tvg-chno="4524" group-title="Oceanic" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png",AU Fox Sports 503 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4524" group-title="Australasian" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png",AU Fox Sports 503 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189789.ts
 
-#EXTINF:-1 tvg-chno="4525" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/8503c6fe0ca1f4f8b0125964fe6062c8.png",AU Fox Sports 504 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4525" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/8503c6fe0ca1f4f8b0125964fe6062c8.png",AU Fox Sports 504 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189790.ts
 
-#EXTINF:-1 tvg-chno="4526" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/020f5de9638a630a148447fed4483976.png",AU Fox Sports 505 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4526" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/020f5de9638a630a148447fed4483976.png",AU Fox Sports 505 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189791.ts
 
-#EXTINF:-1 tvg-chno="4527" group-title="Oceanic" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png",AU Fox Sports 506 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4527" group-title="Australasian" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png",AU Fox Sports 506 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189792.ts
 
-#EXTINF:-1 tvg-chno="4528" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/bf0789dcdfd00d902a0c010f360e1f53.png",AU Fox Sports 507 [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4528" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/bf0789dcdfd00d902a0c010f360e1f53.png",AU Fox Sports 507 [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189793.ts
 
-#EXTINF:-1 tvg-chno="4529" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/59c8a06d108df0fd560593474d858278.png",AU Fuel_TV Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4529" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/59c8a06d108df0fd560593474d858278.png",AU Fuel_TV Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189795.ts
 
-#EXTINF:-1 tvg-chno="4530" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/3c949601238f28b8140ea249f64980e3.png",AU NITV Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4530" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/3c949601238f28b8140ea249f64980e3.png",AU NITV Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189800.ts
 
-#EXTINF:-1 tvg-chno="4531" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/3b88fdbbc3399d86fb8a3325793e3420.png",AU Olympics_Channel Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4531" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/3b88fdbbc3399d86fb8a3325793e3420.png",AU Olympics_Channel Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189801.ts
 
-#EXTINF:-1 tvg-chno="4532" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/a0ddfb2e2ce7cb8781fc0991016171f7.png",AU Outdoor_Channel Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4532" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/a0ddfb2e2ce7cb8781fc0991016171f7.png",AU Outdoor_Channel Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189803.ts
 
-#EXTINF:-1 tvg-chno="4533" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/420e8fa4419fb3482ffa69436b3b35d7.png",AU PAC-12 National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4533" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/420e8fa4419fb3482ffa69436b3b35d7.png",AU PAC-12 National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189804.ts
 
-#EXTINF:-1 tvg-chno="4534" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/9572313be7bb5244d46c468ddb373663.png",AU RACING COM Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4534" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/9572313be7bb5244d46c468ddb373663.png",AU RACING COM Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189808.ts
 
-#EXTINF:-1 tvg-chno="4535" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/45c29a34ca434538c6ad27b1b83b4b10.png",AU Racing com National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4535" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/45c29a34ca434538c6ad27b1b83b4b10.png",AU Racing com National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189809.ts
 
-#EXTINF:-1 tvg-chno="4536" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/9572313be7bb5244d46c468ddb373663.png",AU Racing com Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4536" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/9572313be7bb5244d46c468ddb373663.png",AU Racing com Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189810.ts
 
-#EXTINF:-1 tvg-chno="4537" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/9572313be7bb5244d46c468ddb373663.png",AU RACING COM Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4537" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/9572313be7bb5244d46c468ddb373663.png",AU RACING COM Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189811.ts
 
-#EXTINF:-1 tvg-chno="4538" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/352822f9d488530ba713872ca59edaeb.png",AU Racing.com [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4538" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/352822f9d488530ba713872ca59edaeb.png",AU Racing.com [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189807.ts
 
-#EXTINF:-1 tvg-chno="4539" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4539" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189817.ts
 
-#EXTINF:-1 tvg-chno="4540" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4540" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189818.ts
 
-#EXTINF:-1 tvg-chno="4541" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4541" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189820.ts
 
-#EXTINF:-1 tvg-chno="4542" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png",AU SBS Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4542" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png",AU SBS Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189821.ts
 
-#EXTINF:-1 tvg-chno="4543" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4543" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189838.ts
 
-#EXTINF:-1 tvg-chno="4544" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4544" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189822.ts
 
-#EXTINF:-1 tvg-chno="4545" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4545" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189840.ts
 
-#EXTINF:-1 tvg-chno="4546" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png",AU SBS Food Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4546" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png",AU SBS Food Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189841.ts
 
-#EXTINF:-1 tvg-chno="4547" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4547" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189842.ts
 
-#EXTINF:-1 tvg-chno="4548" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png",AU SBS Food Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4548" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png",AU SBS Food Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189823.ts
 
-#EXTINF:-1 tvg-chno="4549" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4549" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189824.ts
 
-#EXTINF:-1 tvg-chno="4550" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4550" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189825.ts
 
-#EXTINF:-1 tvg-chno="4551" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4551" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS Food Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189845.ts
 
-#EXTINF:-1 tvg-chno="4552" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png",AU SBS Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4552" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png",AU SBS Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189826.ts
 
-#EXTINF:-1 tvg-chno="4553" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4553" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189828.ts
 
-#EXTINF:-1 tvg-chno="4554" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4554" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189830.ts
 
-#EXTINF:-1 tvg-chno="4555" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4555" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/4d6899435fb228c52f1a92e62c9ed4fe.png",AU SBS Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189831.ts
 
-#EXTINF:-1 tvg-chno="4556" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4556" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189833.ts
 
-#EXTINF:-1 tvg-chno="4557" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4557" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189834.ts
 
-#EXTINF:-1 tvg-chno="4558" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4558" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS Viceland Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189835.ts
 
-#EXTINF:-1 tvg-chno="4559" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS VICELAND Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4559" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/b47cbd69630ffb08f4e9d6bd417fbbb7.png",AU SBS VICELAND Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189846.ts
 
-#EXTINF:-1 tvg-chno="4560" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/bac1e4204bfb4dc370fc177673cfe946.png",AU SBS World Movies National [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4560" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/bac1e4204bfb4dc370fc177673cfe946.png",AU SBS World Movies National [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189836.ts
 
-#EXTINF:-1 tvg-chno="4561" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS World Movies Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4561" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/0573f8d8319d8002142d32fe272e695d.png",AU SBS World Movies Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189837.ts
 
-#EXTINF:-1 tvg-chno="4562" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU SBS World Movies Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4562" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU SBS World Movies Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189847.ts
 
-#EXTINF:-1 tvg-chno="4563" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4563" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189848.ts
 
-#EXTINF:-1 tvg-chno="4564" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4564" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189849.ts
 
-#EXTINF:-1 tvg-chno="4565" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4565" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189850.ts
 
-#EXTINF:-1 tvg-chno="4566" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4566" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189851.ts
 
-#EXTINF:-1 tvg-chno="4567" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png",AU Seven Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4567" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png",AU Seven Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189852.ts
 
-#EXTINF:-1 tvg-chno="4568" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4568" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189853.ts
 
-#EXTINF:-1 tvg-chno="4569" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4569" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189854.ts
 
-#EXTINF:-1 tvg-chno="4570" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4570" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/a3fe34a3699e021dff9641ecfce8409c.png",AU Seven Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189855.ts
 
-#EXTINF:-1 tvg-chno="4571" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/bad11d9a966060aa18748784da5bb948.png",AU Sky News HD [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4571" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/bad11d9a966060aa18748784da5bb948.png",AU Sky News HD [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/1100957.ts
 
-#EXTINF:-1 tvg-chno="4572" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/b12efe4e2b53de51a261421f77a3cbef.png",AU Snowy Mountains Television Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4572" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/b12efe4e2b53de51a261421f77a3cbef.png",AU Snowy Mountains Television Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189856.ts
 
-#EXTINF:-1 tvg-chno="4573" group-title="Oceanic" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png",AU TEN Adelaide [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4573" group-title="Australasian" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png",AU TEN Adelaide [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189859.ts
 
-#EXTINF:-1 tvg-chno="4574" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Brisbane [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4574" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Brisbane [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189860.ts
 
-#EXTINF:-1 tvg-chno="4575" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Canberra [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4575" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Canberra [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189862.ts
 
-#EXTINF:-1 tvg-chno="4576" group-title="Oceanic" tvg-logo="http://181.233.124.38:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Darwin [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4576" group-title="Australasian" tvg-logo="http://181.233.124.38:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Darwin [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189863.ts
 
-#EXTINF:-1 tvg-chno="4577" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Hobart [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4577" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU TEN Hobart [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189864.ts
 
-#EXTINF:-1 tvg-chno="4578" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Melbourne [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4578" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Melbourne [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189865.ts
 
-#EXTINF:-1 tvg-chno="4579" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Perth [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4579" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Perth [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189867.ts
 
-#EXTINF:-1 tvg-chno="4580" group-title="Oceanic" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Sydney [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4580" group-title="Australasian" tvg-logo="http://185.156.74.135:80/images/580cff00cde670bc6a2e66f1a0adcb65.png",AU Ten Sydney [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189858.ts
 
-#EXTINF:-1 tvg-chno="4581" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/1e071f415d4647ddba2bc037b20a017a.png",AU TVSN Shopping (NZ) [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4581" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/1e071f415d4647ddba2bc037b20a017a.png",AU TVSN Shopping (NZ) [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189870.ts
 
-#EXTINF:-1 tvg-chno="4582" group-title="Oceanic" tvg-logo="http://5.44.253.151:80/images/765140f100d8279de632d4562246acef.png",AU: ABC News [ZYZX:TV]
+#EXTINF:-1 tvg-chno="4582" group-title="Australasian" tvg-logo="http://5.44.253.151:80/images/765140f100d8279de632d4562246acef.png",AU: ABC News [ZYZX:TV]
 http://ky-iptv.com:80/rudeboy1/rudeboy1/189725.ts
 
 #EXTINF:-1 tvg-chno="4583" group-title="XYZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",Audeh (480p) [ZYZX:PS]
@@ -29807,7 +29807,7 @@ https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 #EXTINF:-1 tvg-chno="9936" group-title="Sports" tvg-logo="https://i.imgur.com/Q55HX1O.png",Racing.com (720p) [AKMZ:TV]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
-#EXTINF:-1 tvg-chno="9937" group-title="Oceanic" tvg-logo="https://i.imgur.com/pma0OCf.png",Racing.com [AKMZ:TV]
+#EXTINF:-1 tvg-chno="9937" group-title="Australasian" tvg-logo="https://i.imgur.com/pma0OCf.png",Racing.com [AKMZ:TV]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 #EXTINF:-1 tvg-chno="9938" group-title="XYZ" tvg-logo="https://i.imgur.com/qyqa1eA.png",Radar TV Lampung (480p) [Not 24/7] [ZYZX:TV]
@@ -37757,7 +37757,7 @@ http://89.38.8.130:39443
 #EXTINF:-1 tvg-chno="12586" group-title="Shop" tvg-logo="https://i.imgur.com/lmoAFm3.png",TVSN (1080p) [AKMZ:TV]
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
-#EXTINF:-1 tvg-chno="12587" group-title="Oceanic" tvg-logo="https://i.imgur.com/p3QCBOo.png",TVSN [AKHD:TV]
+#EXTINF:-1 tvg-chno="12587" group-title="Australasian" tvg-logo="https://i.imgur.com/p3QCBOo.png",TVSN [AKHD:TV]
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
 #EXTINF:-1 tvg-chno="12588" group-title="XYZ" tvg-logo="https://i.imgur.com/oZyeUzG.png",TVT (720p) [ZYZX:PL]
