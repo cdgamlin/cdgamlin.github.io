@@ -9,9 +9,10 @@ Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channel
 * Compilation procedure ensures that any URL duplicated between M3U files only occurs once in the final file
 * [DOMN:CC] pattern added as suffix to all channel names (makes it easy to distinguish between similar channels)
 * "DOMN" are 4 letter codes representing which server group the channel is coming from (eg: "PLTO")
-* "ZYZX" is used as the 4 letter code for all server groups that have few (currently <10) channels
+* "ZYZX" is used as the 4 letter code for all server groups that have few channels (still being updated)
 * "CC" are 2 letter codes representing server country codes (eg: "UK")
 * "TV" is used as the 2 letter country code if the country is not determinable from the server URL
+* Some other alternations on channel names have been included to distinguish channels and include other useful info
 * Channels are far from being fully tested - but there are a lot of excellent channels within this list
 * 10,000 channels come from two BIG M3U playlists
 * Other channels come from playlists including: Pluto, Samsung, Plex, Stirr, and country lists from [this site](https://d.tousecurity.com)
