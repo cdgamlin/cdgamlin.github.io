@@ -15,5 +15,6 @@ Generated IPTV.M3U channel list currently contains over 14,000 Free IPTV channel
 * Channels are far from being fully tested - but there are a lot of excellent channels within this list
 * List accessible via [https://cdgamlin.github.io/IPTV.m3u](https://cdgamlin.github.io/IPTV.m3u)
 * Source code accessible via [My Google Drive](https://colab.research.google.com/drive/1tVaR-fExszrBF_4SSelNrl8lQr-R8rwd#scrollTo=qtIIhjyKU3-k)
+* Currently includes: Pluto, Samsung, Plex, Stirr, Australia, New Zealand
 
 Email: cdgamlin (ąţ) gmail (ɗδţ) com
