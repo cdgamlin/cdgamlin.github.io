@@ -6,7 +6,7 @@ Parses multiple FREE online M3U playlists to generate a custom IPTV.M3U playlist
 
 Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channels
 * Python3 used for compiling M3U files found elsewhere on the net (see [source code](https://github.com/cdgamlin/cdgamlin.github.io/tree/main/PARS))
-* Compilation procedure ensures that any URL duplicated between M3U files only occurs once in the final file
+* Compilation procedure ensures any URL duplicated between M3U files only occurs once in the final file
 * [DOMN:CC] pattern added as suffix to all channel names (makes it easier to distinguish between similar channels)
 * "DOMN" are 4 letter codes representing which server group the channel is coming from (eg: "PLTO")
 * "ZYZX" is used as the 4 letter code for all server groups that have few channels (still being updated with new codes)
