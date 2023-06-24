@@ -1,4 +1,4 @@
-# [cdgamlin.github.io](https://cdgamlin.github.io)
+# [cdgamlin.github.io][(https://cdgamlin.github.io](https://github.com/cdgamlin/cdgamlin.github.io/)
 
 # PARS: *Playlist Aggregator Refiner Scheme*
 
