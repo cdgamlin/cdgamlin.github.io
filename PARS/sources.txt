@@ -1,8 +1,7 @@
 # List of websites to get M3U playlists from
-# (If you are going to add, only add to the bottom of the list)
 
 # ~9100 channels (Mixed)
-https://iptv-org.github.io/iptv/index.nsfw.m3u
+https://iptv-org.github.io/iptv/index.m3u
 
 # ~1200 channels (Mixed)
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
@@ -25,7 +24,7 @@ https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/downl
 # ~500 channels (Canada)
 https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16221
 
-# ~10 channels (New Zealand) 
+# ~10 channels (New Zealand)
 https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16278
 
 # ~1700 channels (UK)
