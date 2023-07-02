@@ -15,6 +15,7 @@ Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channel
 * "TV" is used as the 2 letter country code if the country is not determinable from the server URL or group-title
 * Channels are grouped into category (where possible) or into subcontinent the channel comes from (when category in unobtainable)
 * Subcontinents are based more on language groups than geography, to hint what language(s) a channel may be in
+* Channels are sorted by category, then by title, with subcontinents prefixed with "X" so they occur after the more descriptive categories
 * Channels are far from being fully tested, and some links are broken (but there are a lot of excellent channels within this list)
 * 10,000 channels come from two BIG M3U playlists
 * Other channels come from playlists including: Pluto, Samsung, Plex, Stirr, and country lists from [this site](https://d.tousecurity.com)
