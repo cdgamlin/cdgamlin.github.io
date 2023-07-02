@@ -18,17 +18,17 @@ https://i.mjh.nz/Plex/all.m3u8
 # ~50 channels (Stirr)
 https://i.mjh.nz/Stirr/all.m3u8
 
-# ~150 channels (Australia)
-https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16206
+# ~170 channels (Australia)
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16346
 
 # ~500 channels (Canada)
-https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16221
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16362
 
 # ~10 channels (New Zealand)
-https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16278
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16419
 
 # ~1700 channels (UK)
-https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16294
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16435
 
 # ~2800 channels (US)
-https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16299
+https://d.tousecurity.com/wp-content/plugins/download-attachments/includes/download.php?id=16440
