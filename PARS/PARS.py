@@ -53,10 +53,10 @@ for key, value in EDIT_GROUP_TITLES.items():
     group_title = [x.replace(key,value) for x in group_title]
 group_title = [x.lower() for x in group_title]
 
-# 'NZ' needs to be treated as 'TV', as 'NZ' country code is problematic do to M3U lists from https://i.mjh.nz
+# 'NZ' needs to be treated as 'TV', as 'NZ' country code is problematic due to M3U lists from https://i.mjh.nz
 country_code = [(COUNTRY_TO_SUBCONTINENT_AND_CODE.get(x[0],['','TV'])[1] if x[1] in ['TV','NZ'] else x[1]) for x in zip(group_title,country_code)]
 
-group_title = [COUNTRY_TO_SUBCONTINENT_AND_CODE.get(x, [x])[0] for x in group_title]
+group_title = [f"X:{COUNTRY_TO_SUBCONTINENT_AND_CODE[x][0]}" if x in COUNTRY_TO_SUBCONTINENT_AND_CODE else x for x in group_title]
 
 m3ulist = [{**dct1, **dct2} for dct1, dct2 in zip(m3ulist, [{'domain':x.upper()} for x in domain])]
 m3ulist = [{**dct1, **dct2} for dct1, dct2 in zip(m3ulist, [{'country-code':x.upper()} for x in country_code])]
@@ -68,6 +68,7 @@ for key, value in EDIT_TITLES.items():
 m3ulist = [{**dct1, **dct2} for dct1, dct2 in zip(m3ulist, [{'title':x.strip().upper()} for x in title])]
 
 m3ulist = sorted(m3ulist, key=lambda x: x['title'].lower())
+m3ulist = sorted(m3ulist, key=lambda x: x['group-title'].lower())
 
 with open(OUTPUT_FILE, 'w') as wfile:
     wfile.write('#EXTM3U\n')
