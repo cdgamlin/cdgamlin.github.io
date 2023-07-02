@@ -51,9 +51,8 @@ The steps to install IPTV Simple Client with the 19,000 channel list in Kodi are
 17. Click the power options "on/off" icon
 18. Click Exit
 19. Re-launch Kodi
-20. Wait until you see a message that all the channels were loaded
-21. Click TV
-22. Wait until 19,000 TV channels are loaded (can take a minute)
+20. Click TV
+21. Wait until you see 19,000 TV channels are loaded (can take a minute)
 
 Once in "TV", the best way to find channels is to press left, click "Group", then choose the category you are interested in
 
