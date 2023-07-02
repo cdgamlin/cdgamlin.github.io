@@ -4,7 +4,7 @@
 
 Parses multiple FREE online M3U playlists to generate a custom IPTV.M3U playlist
 
-Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channels
+Generated IPTV.M3U channel list currently contains over 19,000 FREE IPTV channels
 * Python3 used for aggregating M3U files found elsewhere on the net (see [source code](https://github.com/cdgamlin/cdgamlin.github.io/tree/main/PARS))
 * Channel information is parsed from multiple data fields to obtain useful information, such country of origin
 * Compilation procedure ensures any URL duplicated between M3U files only occurs once in the final file
