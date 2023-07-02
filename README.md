@@ -4,7 +4,7 @@
 
 Parses multiple FREE online M3U playlists to generate a custom IPTV.M3U playlist
 
-Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channels
+Generated IPTV.M3U channel list currently contains over 19,000 FREE IPTV channels
 * Python3 used for aggregating M3U files found elsewhere on the net (see [source code](https://github.com/cdgamlin/cdgamlin.github.io/tree/main/PARS))
 * Channel information is parsed from multiple data fields to obtain useful information, such country of origin
 * Compilation procedure ensures any URL duplicated between M3U files only occurs once in the final file
@@ -22,5 +22,41 @@ Generated IPTV.M3U channel list currently contains over 18,000 FREE IPTV channel
 * The only countries included from the country list site are: AU, CA, NZ, UK, US
 * Unless I get some real demand for it, I will not be adding more countries to the list
 * IPTV.m3u generated playlist is at [https://cdgamlin.github.io/IPTV.m3u](https://cdgamlin.github.io/IPTV.m3u)
+
+# How to install in Kodi
+
+You will need to install IPTV Simple Client, and then add the generated playlist to this client
+
+IPTV Simple Client is a Kodi addon that allows you to stream live TV channels from online IPTV streams
+
+The steps to install IPTV Simple Client with the 19,000 channel list in Kodi are:
+
+1. Launch Kodi
+2. Click Add-ons
+3. Click the add-on browser "opened box" icon
+3. Click Install from repository
+4. Click Kodi Add-on repository
+5. Click PVR clients
+6. Click IPTV Simple Client
+7. Click Install
+8. Wait until you see Add-on installed message
+9. Click IPTV Simple Client
+10. Click Configure
+11. Click Add add-on configuration
+12. Click M3U Play List URL
+13. Enter "https://cdgamlin.github.io/IPTV.m3u" (without quotes)
+14. Click OK (to close the Virtual Keyboard)
+15. Click OK (to close the Configuration Page)
+16. Go back to the Kodi homepage
+17. Click the power options "on/off" icon
+18. Click Exit
+19. Re-launch Kodi
+20. Wait until you see a message that all the channels were loaded
+21. Click TV
+22. Wait until 19,000 TV channels are loaded (can take a minute)
+
+Once in "TV", the best way to find channels is to press left, click "Group", then choose the category you are interested in
+
+Remember to check out sub-continents groups that you may be interested in, and also look through the "XYZ" group, which are channels that the algorithm couldn't determine which group they should go in
 
 Email: cdgamlin (ąţ) gmail (ɗδţ) com
