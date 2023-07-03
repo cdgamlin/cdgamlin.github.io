@@ -29,13 +29,13 @@ You will need to install IPTV Simple Client, and then add the generated playlist
 
 IPTV Simple Client is a Kodi addon that allows you to stream live TV channels from online IPTV streams
 
-If IPTV Simple client has already been installed, it needs uninstalling before reinstalling
+If IPTV Simple client has already been installed, it needs uninstalling before reinstalling:
 
 1. Launch Kodi
 2. Click Add-ons
 3. Click the add-on browser "opened box" icon
 4. Click My add-ons
-5. Click PVR clientds
+5. Click PVR clients
 6. Click IPTV Simple Client
 7. Click Uninstall
 8. Click "Yes" (for Are you sure?)
