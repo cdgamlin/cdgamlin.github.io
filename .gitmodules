@@ -1,0 +1,3 @@
+[submodule "PARS"]
+	path = PARS
+	url = https://github.com/cdgamlin/PARS
